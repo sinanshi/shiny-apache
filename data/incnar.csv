@@ -1,0 +1,735 @@
+"","condition","icnarcCode","surgicalCode","medicalCode","tailCode","duplicateCode","system","site","process","conditionTier","admission_freq"
+"1","Pneumonia, no organism","RE94","1.1.4.27.5","2.1.4.27.5","1.4.27.5",0,"Respiratory",4,"Infection",5,4727
+"2","Bacterial pneumonia","RE82","1.1.4.27.1","2.1.4.27.1","1.4.27.1",0,"Respiratory",4,"Infection",1,1919
+"3","Septic shock","CA99","1.2.12.35.2","2.2.12.35.2","2.12.35.2",0,"Cardiovascular",12,"Shock and hypotension",2,1484
+"4","Status epilepticus or uncontrolled seizures","NE57","1.1.10.33.1","2.1.10.33.1","1.10.33.1",1,"Respiratory",10,"Seizures",1,1290
+"5","Acute myocardial infarction","CA8","1.2.1.30.1","2.2.1.30.1","2.1.30.1",1,"Cardiovascular",1,"Obstruction",1,1259
+"6","Intracerebral bleeding","NE21","1.1.10.15.1","2.1.10.15.1","1.10.15.1",1,"Respiratory",10,"Haemorrhage",1,988
+"7","diabetic ketoacidosis","NE35","","","4.2.15.2",NA,"",NA,"",NA,970
+"8","Subarachnoid bleeding","NE35","1.1.10.15.2","2.1.10.15.2","1.10.15.2",1,"Respiratory",10,"Haemorrhage",2,970
+"9","Acute renal failure other causes","GE7","1.7.1.13.4","2.7.1.13.4","7.1.13.4",0,"Genito-urinary",1,"Failure",4,934
+"10","CABG for chronic angina","CA20","1.2.1.30.6","2.2.1.30.6","2.1.30.6",0,"Cardiovascular",1,"Obstruction",6,813
+"11","Diabetic ketoacidosis","EN20","1.8.4.10.1","2.8.4.10.1","8.4.10.1",2,"Endocrine, Metabolic, Thermoregulation and Poisoning",4,"Diabetes mellitus",1,794
+"12","Ventricular tachycardia or fibrillation","CA124","1.2.5.32.2","2.2.5.32.2","2.5.32.2",0,"Cardiovascular",5,"Over-activity",2,753
+"13","Asthma attack in new or known asthmatic","RE11","1.1.2.30.1","2.1.2.30.1","1.2.30.1",0,"Respiratory",2,"Obstruction",1,750
+"14","Abdominal aortic aneurysm, not ruptured","CA143","","","",NA,"",NA,"",NA,750
+"15","Chronic obstructive pulmonary disease with acute exacerbation, unspecified","RE117","","","",NA,"",NA,"",NA,734
+"16","Rheumatoid or osteoarthritis","MU20","1.10.1.8.1","2.10.1.8.1","10.1.8.1",1,"Musculoskeletal",1,"Congenital or acquired deformity or abnormality",1,732
+"17","Acute renal failure due to infection","GE5","1.7.1.13.1","2.7.1.13.1","7.1.13.1",0,"Genito-urinary",1,"Failure",1,706
+"18","Primary brain or meningeal tumour","NE29","1.1.10.39.1","2.1.10.39.1","1.10.39.1",1,"Respiratory",10,"Tumour or malignancy",1,641
+"19","Traumatic subdural haemorrhage","NE75","","","",NA,"",NA,"",NA,503
+"20","Primary brain injury","NE54","1.1.10.7.7","2.1.10.7.7","1.10.7.7",4,"Respiratory",10,"Coma or encephalopathy",7,497
+"21","Cardiogenic shock","CA21","1.2.2.13.4","2.2.2.13.4","2.2.13.4",2,"Cardiovascular",2,"Failure",4,486
+"22","Cardiogenic pulmonary oedema","RE19","1.1.4.31.9","2.1.4.31.9","1.4.31.9",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",9,470
+"23","Malignant neoplasm of the oesophagus","GA92","","","",NA,"",NA,"",NA,469
+"24","Anoxic or ischaemic coma or encephalopathy","RE8","1.1.10.7.3","2.1.10.7.3","1.10.7.3",1,"Respiratory",10,"Coma or encephalopathy",3,445
+"25","Abdominal aortic aneurysm, ruptured","CA144","","","",NA,"",NA,"",NA,428
+"26","Acute cholecystitis, gangrenous gall bladder, or empyema of gall bladder","GA2","1.3.7.27.1","2.3.7.27.1","3.7.27.1",1,"Gastrointestinal",7,"Infection",1,402
+"27","Exacerbation of chronic obstructive airways disease (COAD/COPD)","RE42","1.1.2.27.2","2.1.2.27.2","1.2.27.2",0,"Respiratory",2,"Infection",2,402
+"28","Chronic obstructive airways disease (COAD/COPD)","RE21","1.1.2.30.6","2.1.2.30.6","1.2.30.6",0,"Respiratory",2,"Obstruction",6,396
+"29","Lower limb artery stenosis or occlusion","CA76","1.2.10.30.2","2.2.10.30.2","2.10.30.2",0,"Cardiovascular",10,"Obstruction",2,389
+"30","Self poisoning with tri- and tetracyclic antidepressants","EN79","1.6.8.34.3","2.6.8.34.3","6.8.34.3",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",3,385
+"31","Viral pneumonia","RE75","1.1.4.27.3","2.1.4.27.3","1.4.27.3",0,"Respiratory",4,"Infection",3,379
+"32","Oesophageal varices","GA93","","","",NA,"",NA,"",NA,377
+"33","Carotid or vertebral artery stenosis or occlusion","CA22","1.2.9.30.1","2.2.9.30.1","2.9.30.1",1,"Cardiovascular",9,"Obstruction",1,371
+"34","Self poisoning with sedatives or hypnotics","EN98","1.6.8.34.1","2.6.8.34.1","6.8.34.1",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",1,367
+"35","Abdominal aortic aneurysm, leaking or expanding but not ruptured","CA142","","","",NA,"",NA,"",NA,362
+"36","Aortic or iliac dissection or aneurysm","CA11","1.2.7.11.1","2.2.7.11.1","2.7.11.1",0,"Cardiovascular",7,"Dissection or aneurysm",1,360
+"37","Pancreatic or pancreato-duodenal tumour","GA105","1.3.9.39.1","2.3.9.39.1","3.9.39.1",0,"Gastrointestinal",9,"Tumour or malignancy",1,347
+"38","Subdural haematoma","NE58","1.1.10.15.3","2.1.10.15.3","1.10.15.3",4,"Respiratory",10,"Haemorrhage",3,347
+"39","Supra-ventricular tachycardia, atrial fibrillation or flutter","CA102","1.2.5.32.1","2.2.5.32.1","2.5.32.1",0,"Cardiovascular",5,"Over-activity",1,340
+"40","Left ventricular failure","CA73","1.2.2.13.1","2.2.2.13.1","2.2.13.1",0,"Cardiovascular",2,"Failure",1,335
+"41","Thrombo-occlusive disease of brain","NE38","1.1.10.41.3","2.1.10.41.3","1.10.41.3",1,"Respiratory",10,"Vascular",3,333
+"42","Gastric tumour","GA37","","","",NA,"",NA,"",NA,325
+"43","Malignant neoplasm of oropharynx","GA164","","","",NA,"",NA,"",NA,279
+"44","Secondary hepatic tumour","GA116","1.3.7.39.2","2.3.7.39.2","3.7.39.2",0,"Gastrointestinal",7,"Tumour or malignancy",2,270
+"45","Traumatic subarachnoid haemorrhage","NE74","","","",NA,"",NA,"",NA,262
+"46","Hernia not defined","GA99","1.3.10.8.5","2.3.10.8.5","3.10.8.5",0,"Gastrointestinal",10,"Congenital or acquired deformity or abnormality",5,260
+"47","Hypovolaemic shock","CA52","1.2.12.35.1","2.2.12.35.1","2.12.35.1",1,"Cardiovascular",12,"Shock and hypotension",1,256
+"48","Pyelonephritis or pyonephrosis","GE42","1.7.1.27.1","2.7.1.27.1","7.1.27.1",0,"Genito-urinary",1,"Infection",1,252
+"49","Metabolic coma or encephalopathy","NE22","1.1.10.7.2","2.1.10.7.2","1.10.7.2",1,"Respiratory",10,"Coma or encephalopathy",2,249
+"50","Fractured ribs","RE49","1.1.9.38.3","2.1.9.38.3","1.9.38.3",0,"Respiratory",9,"Trauma",3,224
+"51","Toxic or drug-induced coma or encephalopathy","NE15","1.1.10.7.1","2.1.10.7.1","1.10.7.1",1,"Respiratory",10,"Coma or encephalopathy",1,221
+"52","Malignant neoplasm of oesophageal-gastric junction","GA163","","","",NA,"",NA,"",NA,204
+"53","Self poisoning with alcohol","EN99","1.6.8.34.10","2.6.8.34.10","6.8.34.10",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",10,200
+"54","Liver transplant","GA78","1.3.7.37.1","2.3.7.37.1","3.7.37.1",0,"Gastrointestinal",7,"Transplant or related",1,196
+"55","Appendicitis or appendix abscess","GA6","1.3.6.27.4","2.3.6.27.4","3.6.27.4",1,"Gastrointestinal",6,"Infection",4,188
+"56","Small bowel tumour","GA123","1.3.5.30.5","2.3.5.30.5","3.5.30.5",1,"Gastrointestinal",5,"Obstruction",5,186
+"57","Self poisoning with paracetamol","EN78","1.6.8.34.7","2.6.8.34.7","6.8.34.7",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",7,182
+"58","Intra-oral or pharyngeal tumour","GA140","1.1.1.39.2","2.1.1.39.2","1.1.39.2",1,"Respiratory",1,"Tumour or malignancy",2,179
+"59","Bi-ventricular failure","CA16","1.2.2.13.3","2.2.2.13.3","2.2.13.3",0,"Cardiovascular",2,"Failure",3,175
+"60","Alcoholic cirrhosis","GA4","1.3.7.28.2","2.3.7.28.2","3.7.28.2",0,"Gastrointestinal",7,"Inflammation",2,164
+"61","Acute renal failure due to toxic or drug causes","GE6","1.7.1.13.3","2.7.1.13.3","7.1.13.3",0,"Genito-urinary",1,"Failure",3,159
+"62","Meningitis","NE23","1.1.10.27.1","2.1.10.27.1","1.10.27.1",1,"Respiratory",10,"Infection",1,155
+"63","Primary lung tumour","RE99","1.1.4.39.1","2.1.4.39.1","1.4.39.1",0,"Respiratory",4,"Tumour or malignancy",1,155
+"64","Encephalitis","NE47","1.1.10.27.2","2.1.10.27.2","1.10.27.2",1,"Respiratory",10,"Infection",2,155
+"65","Intracranial injury  unspecified","NE68","","","",NA,"",NA,"",NA,153
+"66","Infective cholangitis","GA49","1.3.7.27.3","2.3.7.27.3","3.7.27.3",0,"Gastrointestinal",7,"Infection",3,147
+"67","Guillain-Barr_ syndrome","RE52","1.1.7.28.1","2.1.7.28.1","1.7.28.1",1,"Respiratory",7,"Inflammation",1,142
+"68","Bacterial meningitis, not meningococcal","NE63","","","",NA,"",NA,"",NA,139
+"69","Anaphylaxis","CA9","1.2.12.35.3","2.2.12.35.3","2.12.35.3",0,"Cardiovascular",12,"Shock and hypotension",3,138
+"70","Cutaneous cellulitis","DE2","1.11.1.27.1","2.11.1.27.1","11.1.27.1",0,"Dermatological",1,"Infection",1,127
+"71","CABG for acute crescendo or unstable angina","CA18","1.2.1.30.5","2.2.1.30.5","2.1.30.5",0,"Cardiovascular",1,"Obstruction",5,115
+"72","Fungal or yeast pneumonia","RE50","1.1.4.27.2","2.1.4.27.2","1.4.27.2",0,"Respiratory",4,"Infection",2,114
+"73","Mouth, mandible, pharynx, or facial bones trauma","NE50","1.1.1.38.1","2.1.1.38.1","1.1.38.1",2,"Respiratory",1,"Trauma",1,110
+"74","Pulmonary fibrosis or fibrosing alveolitis","RE101","1.1.4.31.3","2.1.4.31.3","1.4.31.3",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",3,108
+"75","Lactic acidosis","EN45","1.8.8.2.2","2.8.8.2.2","8.8.2.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Acidaemia",2,104
+"76","Traumatic haemothorax or haemopneumothorax","RE56","1.1.4.6.3","2.1.4.6.3","1.4.6.3",2,"Respiratory",4,"Collapse",3,100
+"77","Hanging or strangulation","RE53","1.1.1.30.6","2.1.1.30.6","1.1.30.6",0,"Respiratory",1,"Obstruction",6,95
+"78","Traumatic rupture or laceration of spleen","GA149","1.3.8.38.1","2.3.8.38.1","3.8.38.1",0,"Gastrointestinal",8,"Trauma",1,87
+"79","Flail chest","RE13","1.1.9.38.1","2.1.9.38.1","1.9.38.1",0,"Respiratory",9,"Trauma",1,83
+"80","Myasthenia gravis","NE27","1.1.8.28.1","2.1.8.28.1","1.8.28.1",3,"Respiratory",8,"Inflammation",1,81
+"81","Burns caused by dry heat","DE17","1.5.7.1.2","2.5.7.1.2","5.7.1.2",1,"Dermatological",1,"Trauma",2,75
+"82","Accidental hypothermia","EN1","1.8.7.26.1","2.8.7.26.1","8.7.26.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",7,"Hypothermia",1,73
+"83","Leaking large bowel anastomosis","GA141","1.3.6.38.4","2.3.6.38.4","3.6.38.4",0,"Gastrointestinal",6,"Trauma",4,70
+"84","Acute alcoholic hepatitis","EN3","1.3.7.28.3","2.3.7.28.3","3.7.28.3",1,"Gastrointestinal",7,"Inflammation",3,69
+"85","Acute crescendo or unstable angina","CA7","1.2.1.30.2","2.2.1.30.2","2.1.30.2",0,"Cardiovascular",1,"Obstruction",2,67
+"86","Focal brain injury","NE66","","","",NA,"",NA,"",NA,66
+"87","Meningococcal meningitis","NE69","","","",NA,"",NA,"",NA,58
+"88","Bleeding gastric varices","GA15","","","",NA,"",NA,"",NA,56
+"89","Tuberculosis","RE110","1.1.4.27.6","2.1.4.27.6","1.4.27.6",1,"Respiratory",4,"Infection",6,51
+"90","Non-traumatic dissection of thoracic aorta","CA85","1.2.6.11.2","2.2.6.11.2","2.6.11.2",0,"Cardiovascular",6,"Dissection or aneurysm",2,45
+"91","Oesophagitis or oesophageal ulcers","GA94","","","",NA,"",NA,"",NA,44
+"92","Acute myeloblastic leukaemia","HA2","1.9.2.39.2","2.9.2.39.2","9.2.39.2",0,"Haematological/Immunological",2,"Tumour or malignancy",2,40
+"93","Failure of reversal of non-depolarising neuromuscular blockers","NE17","1.1.7.8.2","2.1.7.8.2","1.7.8.2",2,"Respiratory",7,"Congenital or acquired deformity or abnormality",2,39
+"94","Aneurysm of illiac artery with or without rupture","CA145","","","",NA,"",NA,"",NA,36
+"95","Non-Hodgkin's lymphoma","HA25","1.9.2.39.6","2.9.2.39.6","9.2.39.6",0,"Haematological/Immunological",2,"Tumour or malignancy",6,35
+"96","Post-anaesthetic encephalopathy aetiology uncertain","NE53","1.1.10.7.5","2.1.10.7.5","1.10.7.5",1,"Respiratory",10,"Coma or encephalopathy",5,34
+"97","Epidural injection or infusion","NE12","1.1.6.12.1","2.1.6.12.1","1.6.12.1",1,"Respiratory",6,"Epidural or spinal drug administration",1,31
+"98","Malignant neoplasm of hypopharynx","GA161","","","",NA,"",NA,"",NA,30
+"99","Infected aortic or iliac prosthesis","CA55","1.2.7.27.1","2.2.7.27.1","2.7.27.1",0,"Cardiovascular",7,"Infection",1,26
+"100","Visceral infarction due to primary vascular disease","CA128","1.2.8.30.10","2.2.8.30.10","2.8.30.10",1,"Cardiovascular",8,"Obstruction",10,26
+"101","Large bowel adhesions","GA65","1.3.6.30.3","2.3.6.30.3","3.6.30.3",0,"Gastrointestinal",6,"Obstruction",3,26
+"102","Thoracic aortic aneurysm, not ruptured","CA151","","","",NA,"",NA,"",NA,21
+"103","Parasitic pneumonia","RE86","1.1.4.27.4","2.1.4.27.4","1.4.27.4",0,"Respiratory",4,"Infection",4,13
+"104","Congenital muscular dystrophy","MU28","1.1.9.8.4","2.1.9.8.4","1.9.8.4",1,"Respiratory",9,"Congenital or acquired deformity or abnormality",4,13
+"105","Malignant neoplasm of nasopharynx","GA162","","","",NA,"",NA,"",NA,11
+"106","Thoracoabdominal aortic aneurysm, not ruptured","CA153","","","",NA,"",NA,"",NA,9
+"107","Viral meningitis","NE77","","","",NA,"",NA,"",NA,8
+"108","Thoracic or thoraco-abdominal aortic aneurysm","CA105","1.2.6.11.3","2.2.6.11.3","2.6.11.3",0,"Cardiovascular",6,"Dissection or aneurysm",3,6
+"109","Thoracic aortic aneurysm, ruptured","CA152","","","",NA,"",NA,"",NA,6
+"110","Thoracoabdominal aortic aneurysm, ruptured","CA154","","","",NA,"",NA,"",NA,4
+"111","Benign prostatic hyperplasia","GE13","1.7.5.39.2","2.7.5.39.2","7.5.39.2",0,"Genito-urinary",5,"Tumour or malignancy",2,NA
+"112","Non-accidental injury to pelvis, long bones or joints","MU10","1.5.6.2.4","2.5.6.2.4","5.6.2.4",1,"Musculoskeletal",2,"Trauma",4,NA
+"113","Necrotising enterocolitis","GA83","1.3.5.27.2","2.3.5.27.2","3.5.27.2",1,"Gastrointestinal",5,"Infection",2,NA
+"114","Polymyositis","MU14","1.10.3.28.1","2.10.3.28.1","10.3.28.1",0,"Musculoskeletal",3,"Inflammation",1,NA
+"115","Reye's or Reye-like syndrome","NE55","1.3.7.28.7","2.3.7.28.7","3.7.28.7",1,"Gastrointestinal",7,"Inflammation",7,NA
+"116","Small bowel volvulus","GA124","1.3.5.30.2","2.3.5.30.2","3.5.30.2",0,"Gastrointestinal",5,"Obstruction",2,NA
+"117","Pertussis","RE90","1.1.1.27.6","2.1.1.27.6","1.1.27.6",0,"Respiratory",1,"Infection",6,NA
+"118","Traumatic rupture or puncture of lower limb artery","CA117","1.2.10.38.2","2.2.10.38.2","2.10.38.2",0,"Cardiovascular",10,"Trauma",2,NA
+"119","Traumatic damage to splanchnic vessels","GA145","1.2.8.38.2","2.2.8.38.2","2.8.38.2",0,"Cardiovascular",8,"Trauma",2,NA
+"120","Amnionitis","GE9","1.7.4.27.1","2.7.4.27.1","7.4.27.1",0,"Genito-urinary",4,"Infection",1,NA
+"121","Tracheal tumour","RE113","1.1.1.39.3","2.1.1.39.3","1.1.39.3",0,"Respiratory",1,"Tumour or malignancy",3,NA
+"122","Trauma to mitral valve","CA110","1.2.4.38.2","2.2.4.38.2","2.4.38.2",0,"Cardiovascular",4,"Trauma",2,NA
+"123","Accidental poisoning with insulin","EN42","1.6.8.1.9","2.6.8.1.9","6.8.1.9",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",9,NA
+"124","Non-accidental injury to male genitalia","GE34","1.5.5.5.3","2.5.5.5.3","5.5.5.3",1,"Genito-urinary",5,"Trauma",3,NA
+"125","Idiopathic pulmonary hypertension","CA53","1.1.3.19.1","2.1.3.19.1","1.3.19.1",1,"Respiratory",3,"Hypertension",1,NA
+"126","Intra-peritoneal abscess (not pelvic)","GA63","1.3.10.27.2","2.3.10.27.2","3.10.27.2",0,"Gastrointestinal",10,"Infection",2,NA
+"127","Brainstem death","NE5","1.1.10.7.6","2.1.10.7.6","1.10.7.6",1,"Respiratory",10,"Coma or encephalopathy",6,NA
+"128","Arterial air embolus","NE41","1.4.2.41.4","2.4.2.41.4","4.2.41.4",0,"Neurological (including eyes)",2,"Vascular",4,NA
+"129","Myocardial or septal abscess","CA5","1.2.2.27.2","2.2.2.27.2","2.2.27.2",0,"Cardiovascular",2,"Infection",2,NA
+"130","Pancreatic fistula","GA104","1.3.9.38.3","2.3.9.38.3","3.9.38.3",0,"Gastrointestinal",9,"Trauma",3,NA
+"131","Traumatic pancreatitis or pancreatic damage","GA132","1.3.9.38.1","2.3.9.38.1","3.9.38.1",1,"Gastrointestinal",9,"Trauma",1,NA
+"132","Intrauterine death","GE28","1.7.4.28.1","2.7.4.28.1","7.4.28.1",0,"Genito-urinary",4,"Inflammation",1,NA
+"133","Laryngeal tumour","RE63","1.1.1.39.4","2.1.1.39.4","1.1.39.4",0,"Respiratory",1,"Tumour or malignancy",4,NA
+"134","Infective colitis or proctocolitis","GA50","1.3.6.27.1","2.3.6.27.1","3.6.27.1",0,"Gastrointestinal",6,"Infection",1,NA
+"135","Splanchnic artery aneurysm or dissection not defined","CA88","1.2.8.11.3","2.2.8.11.3","2.8.11.3",0,"Cardiovascular",8,"Dissection or aneurysm",3,NA
+"136","Envenomation other than snake","EN52","1.8.8.44.2","2.8.8.44.2","8.8.44.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Envenomation",2,NA
+"137","Marfan's syndrome","CA80","1.2.6.8.2","2.2.6.8.2","2.6.8.2",0,"Cardiovascular",6,"Congenital or acquired deformity or abnormality",2,NA
+"138","Malignant prostatic tumour","GE30","1.7.5.39.3","2.7.5.39.3","7.5.39.3",0,"Genito-urinary",5,"Tumour or malignancy",3,NA
+"139","Haemopericardium from ischaemic myocardial perforation","CA43","1.2.3.15.2","2.2.3.15.2","2.3.15.2",0,"Cardiovascular",3,"Haemorrhage",2,NA
+"140","Primary tumour of cord or meninges","NE30","1.4.3.39.1","2.4.3.39.1","4.3.39.1",0,"Neurological (including eyes)",3,"Tumour or malignancy",1,NA
+"141","Crohn's disease of small bowel","GA23","1.3.5.28.1","2.3.5.28.1","3.5.28.1",0,"Gastrointestinal",5,"Inflammation",1,NA
+"142","Traumatic damage to testes,  prostrate or penis","GE52","1.5.5.5.1","2.5.5.5.1","5.5.5.1",1,"Genito-urinary",5,"Trauma",1,NA
+"143","Parkinson's Disease","RE87","1.1.10.8.5","2.1.10.8.5","1.10.8.5",1,"Respiratory",10,"Congenital or acquired deformity or abnormality",5,NA
+"144","Traumatic damage to coronary arteries","CA136","1.2.1.38.1","2.2.1.38.1","2.1.38.1",0,"Cardiovascular",1,"Trauma",1,NA
+"145","Mononucleosis","HA22","1.9.1.27.6","2.9.1.27.6","9.1.27.6",0,"Haematological/Immunological",1,"Infection",6,NA
+"146","Polycystic kidneys","GE39","1.7.1.8.1","2.7.1.8.1","7.1.8.1",0,"Genito-urinary",1,"Congenital or acquired deformity or abnormality",1,NA
+"147","Constrictive pericarditis","CA32","1.2.3.8.1","2.2.3.8.1","2.3.8.1",0,"Cardiovascular",3,"Congenital or acquired deformity or abnormality",1,NA
+"148","Prolactinoma","EN63","1.8.2.32.3","2.8.2.32.3","8.2.32.3",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",2,"Over-activity",3,NA
+"149","Trisomy 18 (Edward's syndrome)","EN81","1.8.11.53.1","2.8.11.53.1","8.11.53.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Trisomy",1,NA
+"150","Glomerulonephritis","GE20","1.7.1.28.1","2.7.1.28.1","7.1.28.1",0,"Genito-urinary",1,"Inflammation",1,NA
+"151","Bladder tumour","GE15","1.7.2.39.1","2.7.2.39.1","7.2.39.1",0,"Genito-urinary",2,"Tumour or malignancy",1,NA
+"152","Non-traumatic haemothorax","RE79","1.1.4.6.2","2.1.4.6.2","1.4.6.2",1,"Respiratory",4,"Collapse",2,NA
+"153","Self poisoning with cardiovascular drugs","EN94","1.6.8.34.5","2.6.8.34.5","6.8.34.5",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",5,NA
+"154","Leishmaniasis","HA20","1.9.1.27.1","2.9.1.27.1","9.1.27.1",0,"Haematological/Immunological",1,"Infection",1,NA
+"155","Heart block","CA46","1.2.5.40.1","2.2.5.40.1","2.5.40.1",0,"Cardiovascular",5,"Under-activity",1,NA
+"156","Chylothorax","RE22","1.1.5.38.4","2.1.5.38.4","1.5.38.4",0,"Respiratory",5,"Trauma",4,NA
+"157","Crush injury","MU29","1.5.6.3.1","2.5.6.3.1","5.6.3.1",1,"Musculoskeletal",3,"Trauma",1,NA
+"158","Upper limb embolus","CA122","1.2.10.30.3","2.2.10.30.3","2.10.30.3",0,"Cardiovascular",10,"Obstruction",3,NA
+"159","Small bowel adhesions","GA118","1.3.5.30.3","2.3.5.30.3","3.5.30.3",0,"Gastrointestinal",5,"Obstruction",3,NA
+"160","Accidental poisoning with aspirin","EN11","1.6.8.1.6","2.6.8.1.6","6.8.1.6",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",6,NA
+"161","Ischaemic colitis","GA64","1.3.6.28.6","2.3.6.28.6","3.6.28.6",1,"Gastrointestinal",6,"Inflammation",6,NA
+"162","Hypoglycaemia due to insulin therapy","EN33","1.8.4.10.3","2.8.4.10.3","8.4.10.3",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",4,"Diabetes mellitus",3,NA
+"163","Uterine tumour","GE58","1.7.3.39.2","2.7.3.39.2","7.3.39.2",0,"Genito-urinary",3,"Tumour or malignancy",2,NA
+"164","Infected thrombophlebitis of the great veins","CA60","1.2.11.27.1","2.2.11.27.1","2.11.27.1",0,"Cardiovascular",11,"Infection",1,NA
+"165","Cardiac transplant rejection","CA108","1.2.2.37.2","2.2.2.37.2","2.2.37.2",0,"Cardiovascular",2,"Transplant or related",2,NA
+"166","Chronic cirrhosis cause not defined","GA96","1.3.7.28.5","2.3.7.28.5","3.7.28.5",0,"Gastrointestinal",7,"Inflammation",5,NA
+"167","Malaria","HA21","1.9.1.27.2","2.9.1.27.2","9.1.27.2",0,"Haematological/Immunological",1,"Infection",2,NA
+"168","Self poisoning with industrial or agricultural chemicals","EN65","1.6.8.34.8","2.6.8.34.8","6.8.34.8",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",8,NA
+"169","Myxoma","CA84","1.2.2.39.1","2.2.2.39.1","2.2.39.1",1,"Cardiovascular",2,"Tumour or malignancy",1,NA
+"170","Bronchopulmonary dysplasia","RE18","1.1.2.8.2","2.1.2.8.2","1.2.8.2",0,"Respiratory",2,"Congenital or acquired deformity or abnormality",2,NA
+"171","Chronic spinal cord injury","NE42","1.1.6.9.2","2.1.6.9.2","1.6.9.2",3,"Respiratory",6,"Degeneration",2,NA
+"172","Non-accidental injury to muscles or connective tissue","MU9","1.5.6.3.5","2.5.6.3.5","5.6.3.5",1,"Musculoskeletal",3,"Trauma",5,NA
+"173","Airway compression by extrinsic abscess","RE4","1.1.1.27.5","2.1.1.27.5","1.1.27.5",0,"Respiratory",1,"Infection",5,NA
+"174","Inhalation pneumonitis (gastrointestinal contents)","RE58","1.1.4.31.5","2.1.4.31.5","1.4.31.5",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",5,NA
+"175","Self poisoning with narcotics","EN96","1.6.8.34.2","2.6.8.34.2","6.8.34.2",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",2,NA
+"176","Congenital chest wall deformity","RE24","1.1.9.8.3","2.1.9.8.3","1.9.8.3",0,"Respiratory",9,"Congenital or acquired deformity or abnormality",3,NA
+"177","Myocarditis","CA83","1.2.2.27.3","2.2.2.27.3","2.2.27.3",1,"Cardiovascular",2,"Infection",3,NA
+"178","Exomphalos","GA31","1.3.10.8.1","2.3.10.8.1","3.10.8.1",0,"Gastrointestinal",10,"Congenital or acquired deformity or abnormality",1,NA
+"179","Auto-immune hypoparathyroidism","EN12","1.8.5.8.2","2.8.5.8.2","8.5.8.2",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",5,"Congenital or acquired deformity or abnormality",2,NA
+"180","Traumatic rupture or perforation of bronchus","RE62","1.1.2.38.1","2.1.2.38.1","1.2.38.1",0,"Respiratory",2,"Trauma",1,NA
+"181","Lymphoma","GA80","1.3.8.39.2","2.3.8.39.2","3.8.39.2",0,"Gastrointestinal",8,"Tumour or malignancy",2,NA
+"182","Retroperitoneal haemorrhage","GE48","1.3.10.15.1","2.3.10.15.1","3.10.15.1",2,"Gastrointestinal",10,"Haemorrhage",1,NA
+"183","Post-tonsillectomy bleeding","RE98","1.1.1.15.1","2.1.1.15.1","1.1.15.1",0,"Respiratory",1,"Haemorrhage",1,NA
+"184","Large bowel inflammatory masses","GA72","1.3.6.30.6","2.3.6.30.6","3.6.30.6",0,"Gastrointestinal",6,"Obstruction",6,NA
+"185","Acute pancreatitis","GA3","1.3.9.28.1","2.3.9.28.1","3.9.28.1",0,"Gastrointestinal",9,"Inflammation",1,NA
+"186","Cervical cord injury","NE9","1.1.6.38.1","2.1.6.38.1","1.6.38.1",2,"Respiratory",6,"Trauma",1,NA
+"187","Delerium tremens","EN17","1.8.8.3.3","2.8.8.3.3","8.8.3.3",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Alcohol related disorders",3,NA
+"188","Thyroid tumour","EN70","1.8.1.39.1","2.8.1.39.1","8.1.39.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",1,"Tumour or malignancy",1,NA
+"189","Emphysema","RE35","1.1.4.31.4","2.1.4.31.4","1.4.31.4",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",4,NA
+"190","Thrombotic thrombocytopaenic purpura","HA33","1.9.1.14.10","2.9.1.14.10","9.1.14.10",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",10,NA
+"191","Induced or post-operative hypothermia","EN41","1.8.7.26.2","2.8.7.26.2","8.7.26.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",7,"Hypothermia",2,NA
+"192","Post-surgical hypoparathyroidism","EN62","1.8.5.8.3","2.8.5.8.3","8.5.8.3",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",5,"Congenital or acquired deformity or abnormality",3,NA
+"193","Bone marrow transplant","HA6","1.9.2.37.1","2.9.2.37.1","9.2.37.1",0,"Haematological/Immunological",2,"Transplant or related",1,NA
+"194","Extracranial or neck arterio-venous malformation or haemangioma","CA13","1.2.9.8.1","2.2.9.8.1","2.9.8.1",1,"Cardiovascular",9,"Congenital or acquired deformity or abnormality",1,NA
+"195","Spinal injection or infusion","RE107","1.1.6.12.2","2.1.6.12.2","1.6.12.2",1,"Respiratory",6,"Epidural or spinal drug administration",2,NA
+"196","Chronic renal failure","GE17","1.7.1.13.5","2.7.1.13.5","7.1.13.5",0,"Genito-urinary",1,"Failure",5,NA
+"197","Tracheo-oesophageal fistula","GA129","1.1.1.8.2","2.1.1.8.2","1.1.8.2",0,"Respiratory",1,"Congenital or acquired deformity or abnormality",2,NA
+"198","Self poisoning with non-cyclic antidepressants","EN92","1.6.8.34.4","2.6.8.34.4","6.8.34.4",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",4,NA
+"199","Pre-eclampsia","GE40","1.2.12.19.5","2.2.12.19.5","2.12.19.5",1,"Cardiovascular",12,"Hypertension",5,NA
+"200","Tuberculous peritonitis","GA134","1.3.10.27.8","2.3.10.27.8","3.10.27.8",0,"Gastrointestinal",10,"Infection",8,NA
+"201","Inguinal or femoral hernia","GA56","1.3.10.8.4","2.3.10.8.4","3.10.8.4",0,"Gastrointestinal",10,"Congenital or acquired deformity or abnormality",4,NA
+"202","Trisomy 13 (Patau or trisomy D)","EN80","1.8.11.53.3","2.8.11.53.3","8.11.53.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Trisomy",3,NA
+"203","Secondary intracranial tumour","NE32","1.1.10.39.2","2.1.10.39.2","1.10.39.2",1,"Respiratory",10,"Tumour or malignancy",2,NA
+"204","Insulinoma","EN43","1.8.4.39.1","2.8.4.39.1","8.4.39.1",2,"Endocrine, Metabolic, Thermoregulation and Poisoning",4,"Tumour or malignancy",1,NA
+"205","Tubo-ovarian abscess","GE53","1.7.3.27.4","2.7.3.27.4","7.3.27.4",0,"Genito-urinary",3,"Infection",4,NA
+"206","Haemophilia or von Willebrand's disease","HA16","1.9.1.8.7","2.9.1.8.7","9.1.8.7",0,"Haematological/Immunological",1,"Congenital or acquired deformity or abnormality",7,NA
+"207","Ovarian hyperstimulation","EN55","1.7.3.32.1","2.7.3.32.1","7.3.32.1",2,"Genito-urinary",3,"Over-activity",1,NA
+"208","Porphyria","HA27","1.4.4.28.4","2.4.4.28.4","4.4.28.4",1,"Neurological (including eyes)",4,"Inflammation",4,NA
+"209","Large bowel herniation","GA69","1.3.6.30.1","2.3.6.30.1","3.6.30.1",0,"Gastrointestinal",6,"Obstruction",1,NA
+"210","Autotransplant of kidney","GE12","1.7.1.37.2","2.7.1.37.2","7.1.37.2",0,"Genito-urinary",1,"Transplant or related",2,NA
+"211","Fournier's gangrene of abdominal wall","GA137","1.3.10.27.4","2.3.10.27.4","3.10.27.4",0,"Gastrointestinal",10,"Infection",4,NA
+"212","Large bowel infarction due to primary vascular disease","GA71","1.3.6.41.3","2.3.6.41.3","3.6.41.3",0,"Gastrointestinal",6,"Vascular",3,NA
+"213","Alcohol overdose","EN100","1.8.8.3.1","2.8.8.3.1","8.8.3.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Alcohol related disorders",1,NA
+"214","Meconium ileus","GA82","1.3.4.30.3","2.3.4.30.3","3.4.30.3",0,"Gastrointestinal",4,"Obstruction",3,NA
+"215","Infected intravenous catheter in the great veins","CA58","1.2.11.27.2","2.2.11.27.2","2.11.27.2",0,"Cardiovascular",11,"Infection",2,NA
+"216","Pulmonary contusion","RE100","1.1.4.38.1","2.1.4.38.1","1.4.38.1",0,"Respiratory",4,"Trauma",1,NA
+"217","Drug induced thrombocytopaenia","HA12","1.9.1.14.5","2.9.1.14.5","9.1.14.5",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",5,NA
+"218","Lown-Ganong-Levine syndrome","CA78","1.2.5.8.2","2.2.5.8.2","2.5.8.2",0,"Cardiovascular",5,"Congenital or acquired deformity or abnormality",2,NA
+"219","Myositis","MU8","1.10.3.27.1","2.10.3.27.1","10.3.27.1",0,"Musculoskeletal",3,"Infection",1,NA
+"220","Infected retained products of conception","GE25","1.7.4.27.3","2.7.4.27.3","7.4.27.3",0,"Genito-urinary",4,"Infection",3,NA
+"221","Large bowel volvulus","GA75","1.3.6.30.2","2.3.6.30.2","3.6.30.2",0,"Gastrointestinal",6,"Obstruction",2,NA
+"222","Cholelithiasis","GA18","1.3.7.8.2","2.3.7.8.2","3.7.8.2",1,"Gastrointestinal",7,"Congenital or acquired deformity or abnormality",2,NA
+"223","Superior vena caval damage","CA92","1.2.11.38.1","2.2.11.38.1","2.11.38.1",0,"Cardiovascular",11,"Trauma",1,NA
+"224","Leprosy","DE19","1.4.4.27.2","2.4.4.27.2","4.4.27.2",1,"Neurological (including eyes)",4,"Infection",2,NA
+"225","Toxic myocarditis","CA106","1.2.2.8.10","2.2.2.8.10","2.2.8.10",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",10,NA
+"226","Entero-enteric or entero-cutaneous fistula","GA101","1.3.5.38.5","2.3.5.38.5","3.5.38.5",0,"Gastrointestinal",5,"Trauma",5,NA
+"227","Hepatic abscess","GA41","1.3.7.27.4","2.3.7.27.4","3.7.27.4",0,"Gastrointestinal",7,"Infection",4,NA
+"228","Pituitary tumour not defined","EN54","1.8.2.39.4","2.8.2.39.4","8.2.39.4",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",2,"Tumour or malignancy",4,NA
+"229","Thyroid cysts","EN69","1.8.1.8.1","2.8.1.8.1","8.1.8.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",1,"Congenital or acquired deformity or abnormality",1,NA
+"230","Bronchial haemorrhage","RE14","1.1.2.15.1","2.1.2.15.1","1.2.15.1",0,"Respiratory",2,"Haemorrhage",1,NA
+"231","Alkali ingestion","EN9","1.8.8.4.2","2.8.8.4.2","8.8.4.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Alkalaemia",2,NA
+"232","Instrumental damage to duodenum","GA138","1.3.4.38.3","2.3.4.38.3","3.4.38.3",0,"Gastrointestinal",4,"Trauma",3,NA
+"233","Haemorrhage from uterus","GE24","1.7.3.15.1","2.7.3.15.1","7.3.15.1",0,"Genito-urinary",3,"Haemorrhage",1,NA
+"234","Biliary tree tumour","GA11","1.3.7.39.3","2.3.7.39.3","3.7.39.3",0,"Gastrointestinal",7,"Tumour or malignancy",3,NA
+"235","Myeloma","HA24","1.9.2.39.7","2.9.2.39.7","9.2.39.7",0,"Haematological/Immunological",2,"Tumour or malignancy",7,NA
+"236","Embolic brain lesions causing respiratory failure","NE46","1.1.10.41.6","2.1.10.41.6","1.10.41.6",1,"Respiratory",10,"Vascular",6,NA
+"237","Accidental poisoning with alcohol","EN7","1.6.8.1.10","2.6.8.1.10","6.8.1.10",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",10,NA
+"238","Diabetes insipidus (central)","EN18","1.8.2.40.1","2.8.2.40.1","8.2.40.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",2,"Under-activity",1,NA
+"239","Mandible, facial bones, dental or salivary infection","RE71","1.1.1.27.1","2.1.1.27.1","1.1.27.1",1,"Respiratory",1,"Infection",1,NA
+"240","Hepatic artery stenosis or occlusion","CA48","1.2.8.30.5","2.2.8.30.5","2.8.30.5",0,"Cardiovascular",8,"Obstruction",5,NA
+"241","Chelating agent toxicity","EN14","1.8.8.21.2","2.8.8.21.2","8.8.21.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypocalcaemia",2,NA
+"242","Transverse myelitis","NE62","1.4.3.9.2","2.4.3.9.2","4.3.9.2",0,"Neurological (including eyes)",3,"Degeneration",2,NA
+"243","Pulmonary tumour embolus","RE109","1.1.3.30.4","2.1.3.30.4","1.3.30.4",1,"Respiratory",3,"Obstruction",4,NA
+"244","Diabetes insipidus (central or nephrogenic)","EN101","1.8.8.18.1","2.8.8.18.1","8.8.18.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypernatraemia",1,NA
+"245","Renal failure","GE66","1.8.8.17.2","2.8.8.17.2","8.8.17.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hyperkalaemia",2,NA
+"246","Compartment syndrome","MU27","1.5.6.3.2","2.5.6.3.2","5.6.3.2",3,"Musculoskeletal",3,"Trauma",2,NA
+"247","Psoriasis and pustular psoriasis","DE11","1.11.1.28.3","2.11.1.28.3","11.1.28.3",0,"Dermatological",1,"Inflammation",3,NA
+"248","Haemopericardium or tamponade post surgery","CA132","1.2.2.38.6","2.2.2.38.6","2.2.38.6",1,"Cardiovascular",2,"Trauma",6,NA
+"249","Obstructive sleep apnoea","RE81","1.1.1.30.12","2.1.1.30.12","1.1.30.12",0,"Respiratory",1,"Obstruction",12,NA
+"250","Congenital ventricular septal defect","CA31","1.2.2.8.3","2.2.2.8.3","2.2.8.3",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",3,NA
+"251","Basal cell carcinoma of skin","DE1","1.11.1.39.2","2.11.1.39.2","11.1.39.2",0,"Dermatological",1,"Tumour or malignancy",2,NA
+"252","Extrinsic compression of cord by non-neural tumour","NE16","1.4.3.39.2","2.4.3.39.2","4.3.39.2",0,"Neurological (including eyes)",3,"Tumour or malignancy",2,NA
+"253","Ventricular ectopics","CA123","1.2.5.32.4","2.2.5.32.4","2.5.32.4",0,"Cardiovascular",5,"Over-activity",4,NA
+"254","Systemic sclerosis","MU25","1.10.3.28.6","2.10.3.28.6","10.3.28.6",0,"Musculoskeletal",3,"Inflammation",6,NA
+"255","Toxic dilatation of large bowel","GA128","1.3.6.28.3","2.3.6.28.3","3.6.28.3",0,"Gastrointestinal",6,"Inflammation",3,NA
+"256","Visceral artery embolism","CA126","1.2.8.30.9","2.2.8.30.9","2.8.30.9",1,"Cardiovascular",8,"Obstruction",9,NA
+"257","Spina bifida or meningomyelcoele","NE33","1.4.3.8.3","2.4.3.8.3","4.3.8.3",1,"Neurological (including eyes)",3,"Congenital or acquired deformity or abnormality",3,NA
+"258","Accidental poisoning with industrial or agricultural chemicals","EN89","1.6.8.1.8","2.6.8.1.8","6.8.1.8",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",8,NA
+"259","Inborn errors of adrenal function","EN39","1.8.3.8.1","2.8.3.8.1","8.3.8.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",3,"Congenital or acquired deformity or abnormality",1,NA
+"260","Essential hypertension","CA40","1.2.12.19.2","2.2.12.19.2","2.12.19.2",0,"Cardiovascular",12,"Hypertension",2,NA
+"261","Epiglottitis","RE40","1.1.1.27.3","2.1.1.27.3","1.1.27.3",1,"Respiratory",1,"Infection",3,NA
+"262","Tonsil or pharyngeal infection","GA114","1.1.1.27.2","2.1.1.27.2","1.1.27.2",1,"Respiratory",1,"Infection",2,NA
+"263","Infective arthritis","MU5","1.10.2.27.2","2.10.2.27.2","10.2.27.2",1,"Musculoskeletal",2,"Infection",2,NA
+"264","Traumatic duodenal rupture","GA146","1.3.4.38.2","2.3.4.38.2","3.4.38.2",0,"Gastrointestinal",4,"Trauma",2,NA
+"265","Rejection of lung transplant","RE102","1.1.4.37.2","2.1.4.37.2","1.4.37.2",0,"Respiratory",4,"Transplant or related",2,NA
+"266","Abnormality of mitral valve","CA3","1.2.4.8.2","2.2.4.8.2","2.4.8.2",0,"Cardiovascular",4,"Congenital or acquired deformity or abnormality",2,NA
+"267","Chronic myelogenous leukaemia","HA8","1.9.2.39.4","2.9.2.39.4","9.2.39.4",0,"Haematological/Immunological",2,"Tumour or malignancy",4,NA
+"268","Traumatic perforation or rupture of bladder","GE72","1.5.5.2.1","2.5.5.2.1","5.5.2.1",1,"Genito-urinary",2,"Trauma",1,NA
+"269","Motor neurone disease","NE24","1.1.6.9.1","2.1.6.9.1","1.6.9.1",2,"Respiratory",6,"Degeneration",1,NA
+"270","Large bowel infarction due to herniation,  volvulus or adhesions","GA70","1.3.6.41.4","2.3.6.41.4","3.6.41.4",0,"Gastrointestinal",6,"Vascular",4,NA
+"271","Infected thoracic aortic prosthesis","CA59","1.2.6.27.1","2.2.6.27.1","2.6.27.1",0,"Cardiovascular",6,"Infection",1,NA
+"272","Hyperthyroidism","EN32","1.8.1.32.1","2.8.1.32.1","8.1.32.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",1,"Over-activity",1,NA
+"273","Autoimmume haemolysis","HA5","1.9.1.14.1","2.9.1.14.1","9.1.14.1",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",1,NA
+"274","Discitis","MU3","1.10.1.27.1","2.10.1.27.1","10.1.27.1",0,"Musculoskeletal",1,"Infection",1,NA
+"275","Carotid or vertebral artery aneurysm or dissection","NE6","1.2.9.11.1","2.2.9.11.1","2.9.11.1",1,"Cardiovascular",9,"Dissection or aneurysm",1,NA
+"276","Spherocytosis or stomatocytosis","HA31","1.9.1.8.5","2.9.1.8.5","9.1.8.5",0,"Haematological/Immunological",1,"Congenital or acquired deformity or abnormality",5,NA
+"277","Large bowel intussusception or prolapse","GA73","1.3.6.30.4","2.3.6.30.4","3.6.30.4",0,"Gastrointestinal",6,"Obstruction",4,NA
+"278","Stevens-Johnson syndrome","DE14","1.11.1.28.6","2.11.1.28.6","11.1.28.6",0,"Dermatological",1,"Inflammation",6,NA
+"279","Pulmonary embolus (thrombus)","CA94","1.1.3.30.1","2.1.3.30.1","1.3.30.1",1,"Respiratory",3,"Obstruction",1,NA
+"280","Eclampsia","GE60","1.1.10.33.2","2.1.10.33.2","1.10.33.2",1,"Respiratory",10,"Seizures",2,NA
+"281","Instrumental damage to heart valves","CA66","1.2.4.38.5","2.2.4.38.5","2.4.38.5",0,"Cardiovascular",4,"Trauma",5,NA
+"282","Atrial septal defect","CA15","1.2.2.8.2","2.2.2.8.2","2.2.8.2",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",2,NA
+"283","Renal artery stenosis or occlusion","GE65","1.2.8.30.1","2.2.8.30.1","2.8.30.1",1,"Cardiovascular",8,"Obstruction",1,NA
+"284","Cushing's syndrome","EN16","1.8.2.32.1","2.8.2.32.1","8.2.32.1",2,"Endocrine, Metabolic, Thermoregulation and Poisoning",2,"Over-activity",1,NA
+"285","Superior vena caval obstruction or thrombosis","CA101","1.2.11.30.1","2.2.11.30.1","2.11.30.1",0,"Cardiovascular",11,"Obstruction",1,NA
+"286","Tetralogy of Fallot","CA104","1.2.2.8.6","2.2.2.8.6","2.2.8.6",1,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",6,NA
+"287","Other sex chromosome disorders","EN75","1.8.11.46.3","2.8.11.46.3","8.11.46.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Sex chromosome disorders",3,NA
+"288","Single ventricle","CA100","1.2.2.8.12","2.2.2.8.12","2.2.8.12",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",12,NA
+"289","Small bowel infarction due to herniation,  volvulus or adhesions","GA120","1.2.8.30.11","2.2.8.30.11","2.8.30.11",1,"Cardiovascular",8,"Obstruction",11,NA
+"290","Retroperitoneal abscess or infection","GA113","1.3.10.27.7","2.3.10.27.7","3.10.27.7",0,"Gastrointestinal",10,"Infection",7,NA
+"291","Infected intravenous catheter in the peripheral veins","CA140","1.2.12.27.2","2.2.12.27.2","2.12.27.2",0,"Cardiovascular",12,"Infection",2,NA
+"292","Abnormality of aortic valve","CA2","1.2.4.8.1","2.2.4.8.1","2.4.8.1",0,"Cardiovascular",4,"Congenital or acquired deformity or abnormality",1,NA
+"293","Congenital abnormality of skull","NE43","1.1.10.8.4","2.1.10.8.4","1.10.8.4",1,"Respiratory",10,"Congenital or acquired deformity or abnormality",4,NA
+"294","Secondary hydrocephalus","NE56","1.1.10.8.2","2.1.10.8.2","1.10.8.2",1,"Respiratory",10,"Congenital or acquired deformity or abnormality",2,NA
+"295","Lumbar plexus injury","NE20","1.4.4.38.2","2.4.4.38.2","4.4.38.2",1,"Neurological (including eyes)",4,"Trauma",2,NA
+"296","Traumatic aorto-caval fistula","CA96","1.2.7.11.4","2.2.7.11.4","2.7.11.4",1,"Cardiovascular",7,"Dissection or aneurysm",4,NA
+"297","Gastric fluid loss","EN26","1.8.8.4.1","2.8.8.4.1","8.8.4.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Alkalaemia",1,NA
+"298","Vulval or vaginal tumour","GE59","1.7.3.39.3","2.7.3.39.3","7.3.39.3",0,"Genito-urinary",3,"Tumour or malignancy",3,NA
+"299","Sarcoidosis","RE103","1.1.4.31.2","2.1.4.31.2","1.4.31.2",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",2,NA
+"300","Primary tumour in vertebral column","MU16","1.10.1.39.1","2.10.1.39.1","10.1.39.1",0,"Musculoskeletal",1,"Tumour or malignancy",1,NA
+"301","Tetanus","NE36","1.1.6.27.3","2.1.6.27.3","1.6.27.3",1,"Respiratory",6,"Infection",3,NA
+"302","Haemopericardium from instrumental myocardial perforation","CA42","1.2.3.15.1","2.2.3.15.1","2.3.15.1",0,"Cardiovascular",3,"Haemorrhage",1,NA
+"303","Paraneoplastic hypercalcaemia","EN58","1.8.8.42.1","2.8.8.42.1","8.8.42.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypercalcaemia",1,NA
+"304","Anomalous coronary artery","CA10","1.2.1.8.2","2.2.1.8.2","2.1.8.2",0,"Cardiovascular",1,"Congenital or acquired deformity or abnormality",2,NA
+"305","Brachial plexus injury","NE39","1.4.4.38.1","2.4.4.38.1","4.4.38.1",1,"Neurological (including eyes)",4,"Trauma",1,NA
+"306","Vascular lesion of eyes","NE61","1.4.1.41.7","2.4.1.41.7","4.1.41.7",0,"Neurological (including eyes)",1,"Vascular",7,NA
+"307","Laryngomalacia","RE64","1.1.1.8.3","2.1.1.8.3","1.1.8.3",0,"Respiratory",1,"Congenital or acquired deformity or abnormality",3,NA
+"308","Lower limb embolus","CA77","1.2.10.30.4","2.2.10.30.4","2.10.30.4",0,"Cardiovascular",10,"Obstruction",4,NA
+"309","Hyperosmolar states","EN74","1.8.8.16.2","2.8.8.16.2","8.8.16.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hyperglycaemia",2,NA
+"310","Myocardial ischaemia without angina","CA82","1.2.1.30.7","2.2.1.30.7","2.1.30.7",0,"Cardiovascular",1,"Obstruction",7,NA
+"311","Orbital cellulitis","DE9","1.4.1.27.3","2.4.1.27.3","4.1.27.3",2,"Neurological (including eyes)",1,"Infection",3,NA
+"312","Snake bite","EN67","1.8.8.44.1","2.8.8.44.1","8.8.44.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Envenomation",1,NA
+"313","Congenital hydrocephalus","NE44","1.1.10.8.1","2.1.10.8.1","1.10.8.1",1,"Respiratory",10,"Congenital or acquired deformity or abnormality",1,NA
+"314","Traumatic broncho-pleural fistula","RE37","1.1.5.38.3","2.1.5.38.3","1.5.38.3",0,"Respiratory",5,"Trauma",3,NA
+"315","Endocarditis of aortic valve","CA36","1.2.4.27.1","2.2.4.27.1","2.4.27.1",0,"Cardiovascular",4,"Infection",1,NA
+"316","Accidental poisoning with cardiovascular drugs","EN13","1.6.8.1.5","2.6.8.1.5","6.8.1.5",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",5,NA
+"317","Sickle cell disease","HA30","1.9.1.8.4","2.9.1.8.4","9.1.8.4",0,"Haematological/Immunological",1,"Congenital or acquired deformity or abnormality",4,NA
+"318","Pulmonary haemorrhage due to contusion","RE29","1.1.3.15.4","2.1.3.15.4","1.3.15.4",2,"Respiratory",3,"Haemorrhage",4,NA
+"319","Cerebral palsy","NE8","1.4.2.8.4","2.4.2.8.4","4.2.8.4",0,"Neurological (including eyes)",2,"Congenital or acquired deformity or abnormality",4,NA
+"320","Large bowel artery embolization","GA66","1.3.6.41.2","2.3.6.41.2","3.6.41.2",0,"Gastrointestinal",6,"Vascular",2,NA
+"321","Thyroid crisis","EN68","1.8.1.32.2","2.8.1.32.2","8.1.32.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",1,"Over-activity",2,NA
+"322","Duodenal perforation due to ulcers","GA28","1.3.4.38.4","2.3.4.38.4","3.4.38.4",0,"Gastrointestinal",4,"Trauma",4,NA
+"323","Aplastic anaemia","HA4","1.9.2.25.1","2.9.2.25.1","9.2.25.1",0,"Haematological/Immunological",2,"Hypoplasia or dysplasia",1,NA
+"324","Osteomyelitis","MU11","1.10.2.27.1","2.10.2.27.1","10.2.27.1",0,"Musculoskeletal",2,"Infection",1,NA
+"325","Intracranial arterio-venous malformation","NE1","1.1.10.41.2","2.1.10.41.2","1.10.41.2",1,"Respiratory",10,"Vascular",2,NA
+"326","Carcinoid tumour","GA17","1.3.7.39.4","2.3.7.39.4","3.7.39.4",0,"Gastrointestinal",7,"Tumour or malignancy",4,NA
+"327","Duodenal or ampullary tumour","GA27","1.3.4.39.1","2.3.4.39.1","3.4.39.1",0,"Gastrointestinal",4,"Tumour or malignancy",1,NA
+"328","Paraneoplastic hypokalaemia","EN59","1.8.8.23.1","2.8.8.23.1","8.8.23.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypokalaemia",1,NA
+"329","Non-cardiogenic pulmonary oedema (ARDS)","RE78","1.1.4.31.10","2.1.4.31.10","1.4.31.10",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",10,NA
+"330","Renal hypokalaemia","GE67","1.8.8.23.3","2.8.8.23.3","8.8.23.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypokalaemia",3,NA
+"331","Hypopituitarism","EN35","1.8.2.40.2","2.8.2.40.2","8.2.40.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",2,"Under-activity",2,NA
+"332","Chronic degeneration of aortic valve","CA24","1.2.4.9.1","2.2.4.9.1","2.4.9.1",0,"Cardiovascular",4,"Degeneration",1,NA
+"333","Thalassaemia","HA32","1.9.1.8.6","2.9.1.8.6","9.1.8.6",0,"Haematological/Immunological",1,"Congenital or acquired deformity or abnormality",6,NA
+"334","Lymphangitis carcinomatosis","RE70","1.1.4.31.14","2.1.4.31.14","1.4.31.14",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",14,NA
+"335","Extrinsic compression of airway by thyroid or lymphoid tissue","RE45","1.1.1.30.3","2.1.1.30.3","1.1.30.3",0,"Respiratory",1,"Obstruction",3,NA
+"336","Ocular trauma","NE51","1.4.1.38.2","2.4.1.38.2","4.1.38.2",1,"Neurological (including eyes)",1,"Trauma",2,NA
+"337","Renal agenesis or hypoplasia","GE43","1.7.1.8.2","2.7.1.8.2","7.1.8.2",0,"Genito-urinary",1,"Congenital or acquired deformity or abnormality",2,NA
+"338","Exacerbation of bronchiectasis","RE41","1.1.2.27.3","2.1.2.27.3","1.2.27.3",0,"Respiratory",2,"Infection",3,NA
+"339","Trauma to aortic valve","CA109","1.2.4.38.1","2.2.4.38.1","2.4.38.1",0,"Cardiovascular",4,"Trauma",1,NA
+"340","Systemic lupus erythromatosis","MU24","1.10.3.28.2","2.10.3.28.2","10.3.28.2",0,"Musculoskeletal",3,"Inflammation",2,NA
+"341","Haemopericardium from coronary artery damage","CA41","1.2.3.15.4","2.2.3.15.4","2.3.15.4",0,"Cardiovascular",3,"Haemorrhage",4,NA
+"342","HELLP syndrome","HA28","1.2.12.19.4","2.2.12.19.4","2.12.19.4",2,"Cardiovascular",12,"Hypertension",4,NA
+"343","Trisomy 21 (Down's syndrome)","EN82","1.8.11.53.2","2.8.11.53.2","8.11.53.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Trisomy",2,NA
+"344","Hepatic vein occlusion or thrombosis","CA49","1.2.8.30.7","2.2.8.30.7","2.8.30.7",1,"Cardiovascular",8,"Obstruction",7,NA
+"345","Amputation of limb","MU35","1.5.6.3.6","2.5.6.3.6","5.6.3.6",1,"Musculoskeletal",3,"Trauma",6,NA
+"346","Traumatic damage to renal vessels","GE69","1.2.8.38.1","2.2.8.38.1","2.8.38.1",4,"Cardiovascular",8,"Trauma",1,NA
+"347","Hypoplastic left or right ventricle","CA51","1.2.2.8.16","2.2.2.8.16","2.2.8.16",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",16,NA
+"348","Angio-neurotic oedema due to drug or treatment reaction","RE5","1.1.1.28.2","2.1.1.28.2","1.1.28.2",1,"Respiratory",1,"Inflammation",2,NA
+"349","Pleural effusion","RE91","1.1.5.8.4","2.1.5.8.4","1.5.8.4",0,"Respiratory",5,"Congenital or acquired deformity or abnormality",4,NA
+"350","Familial periodic paralysis","EN25","1.8.8.17.3","2.8.8.17.3","8.8.17.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hyperkalaemia",3,NA
+"351","Infected thrombophlebitis of the peripheral veins","CA141","1.2.12.27.1","2.2.12.27.1","2.12.27.1",0,"Cardiovascular",12,"Infection",1,NA
+"352","Patent ductus arteriosus","RE88","1.1.3.8.4","2.1.3.8.4","1.3.8.4",2,"Respiratory",3,"Congenital or acquired deformity or abnormality",4,NA
+"353","Endocarditis of mitral valve","CA37","1.2.4.27.2","2.2.4.27.2","2.4.27.2",0,"Cardiovascular",4,"Infection",2,NA
+"354","Haemorrhage from bladder","GE21","1.7.2.15.2","2.7.2.15.2","7.2.15.2",0,"Genito-urinary",2,"Haemorrhage",2,NA
+"355","Lung transplant","RE69","1.1.4.37.1","2.1.4.37.1","1.4.37.1",0,"Respiratory",4,"Transplant or related",1,NA
+"356","Bronchiolitis","RE16","1.1.2.27.4","2.1.2.27.4","1.2.27.4",0,"Respiratory",2,"Infection",4,NA
+"357","Colo-vascular fistula","GA20","1.3.6.15.2","2.3.6.15.2","3.6.15.2",0,"Gastrointestinal",6,"Haemorrhage",2,NA
+"358","Left ventricular outflow tract obstruction","CA74","1.2.2.8.14","2.2.2.8.14","2.2.8.14",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",14,NA
+"359","Iliac or saddle embolus","CA54","1.2.7.30.2","2.2.7.30.2","2.7.30.2",0,"Cardiovascular",7,"Obstruction",2,NA
+"360","Amniotic fluid embolus","GE10","1.1.3.30.5","2.1.3.30.5","1.3.30.5",2,"Respiratory",3,"Obstruction",5,NA
+"361","Coronary sinus fistula","CA34","1.2.1.8.1","2.2.1.8.1","2.1.8.1",0,"Cardiovascular",1,"Congenital or acquired deformity or abnormality",1,NA
+"362","Extrinsic compression of airway by haematoma","RE44","1.1.1.30.1","2.1.1.30.1","1.1.30.1",0,"Respiratory",1,"Obstruction",1,NA
+"363","Traumatic rupture or laceration of liver","GA148","1.3.7.38.1","2.3.7.38.1","3.7.38.1",0,"Gastrointestinal",7,"Trauma",1,NA
+"364","Small bowel inflammatory masses","GA121","1.3.5.30.6","2.3.5.30.6","3.5.30.6",0,"Gastrointestinal",5,"Obstruction",6,NA
+"365","Chromosomal deletion syndromes (partial monosomy)","EN84","1.8.11.54.1","2.8.11.54.1","8.11.54.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Chromosomal deletion syndromes",1,NA
+"366","Transposition of great arteries","CA95","1.1.3.8.3","2.1.3.8.3","1.3.8.3",3,"Respiratory",3,"Congenital or acquired deformity or abnormality",3,NA
+"367","Epidural or subdural abscess","NE48","1.1.6.27.1","2.1.6.27.1","1.6.27.1",1,"Respiratory",6,"Infection",1,NA
+"368","Excess sodium intake","EN24","1.8.8.18.3","2.8.8.18.3","8.8.18.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypernatraemia",3,NA
+"369","Mediastinal tumour","RE73","1.1.5.39.2","2.1.5.39.2","1.5.39.2",0,"Respiratory",5,"Tumour or malignancy",2,NA
+"370","Extrinsic compression of bronchus by tumour","RE46","1.1.2.30.5","2.1.2.30.5","1.2.30.5",0,"Respiratory",2,"Obstruction",5,NA
+"371","Henoch-Schonlein purpura","HA17","1.9.1.14.7","2.9.1.14.7","9.1.14.7",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",7,NA
+"372","Eating disorder","EN22","1.8.9.36.1","2.8.9.36.1","8.9.36.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",9,"Starvation",1,NA
+"373","Empyema or infected effusion","RE36","1.1.5.27.2","2.1.5.27.2","1.5.27.2",0,"Respiratory",5,"Infection",2,NA
+"374","Water depletion","EN72","1.8.8.18.2","2.8.8.18.2","8.8.18.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypernatraemia",2,NA
+"375","Lung collapse or atelectasis","RE67","1.1.4.6.1","2.1.4.6.1","1.4.6.1",0,"Respiratory",4,"Collapse",1,NA
+"376","Non-accidental injury to skin","DE8","1.5.7.1.4","2.5.7.1.4","5.7.1.4",1,"Dermatological",1,"Trauma",4,NA
+"377","Haemorrhage from coronary arteries","CA45","1.2.1.15.1","2.2.1.15.1","2.1.15.1",0,"Cardiovascular",1,"Haemorrhage",1,NA
+"378","Pulmonary arterio-venous malformations","CA93","1.1.3.8.2","2.1.3.8.2","1.3.8.2",1,"Respiratory",3,"Congenital or acquired deformity or abnormality",2,NA
+"379","Portal hypertension","GA107","1.2.8.30.12","2.2.8.30.12","2.8.30.12",1,"Cardiovascular",8,"Obstruction",12,NA
+"380","Necrotising fasciitis","DE7","1.3.10.27.5","2.3.10.27.5","3.10.27.5",2,"Gastrointestinal",10,"Infection",5,NA
+"381","Aortic root abscess","CA12","1.2.4.27.5","2.2.4.27.5","2.4.27.5",1,"Cardiovascular",4,"Infection",5,NA
+"382","Infection of prosthetic heart valve","CA61","1.2.4.27.6","2.2.4.27.6","2.4.27.6",0,"Cardiovascular",4,"Infection",6,NA
+"383","Drug dependence","PS4","1.12.1.48.2","2.12.1.48.2","12.1.48.2",0,"Psychiatric",1,"Alcohol or drug dependence",2,NA
+"384","Haemorrhage or haematoma from vertebral column","MU4","1.5.6.1.4","2.5.6.1.4","5.6.1.4",1,"Musculoskeletal",1,"Trauma",4,NA
+"385","Tracheal stenosis","RE114","1.1.1.30.7","2.1.1.30.7","1.1.30.7",0,"Respiratory",1,"Obstruction",7,NA
+"386","Bleeding from prostate gland","GE16","1.7.5.15.1","2.7.5.15.1","7.5.15.1",0,"Genito-urinary",5,"Haemorrhage",1,NA
+"387","Pulmonary vasculitis not defined","RE84","1.1.3.15.2","2.1.3.15.2","1.3.15.2",4,"Respiratory",3,"Haemorrhage",2,NA
+"388","Cervical spine fracture or ligamentous injury","MU26","1.5.6.1.1","2.5.6.1.1","5.6.1.1",1,"Musculoskeletal",1,"Trauma",1,NA
+"389","Non-valvular endocarditis","CA86","1.2.2.27.4","2.2.2.27.4","2.2.27.4",1,"Cardiovascular",2,"Infection",4,NA
+"390","Idiopathic thrombocytopaenic purpura","HA19","1.9.1.14.4","2.9.1.14.4","9.1.14.4",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",4,NA
+"391","Instrumental damage to pulmonary vessels","RE25","1.1.3.38.2","2.1.3.38.2","1.3.38.2",1,"Respiratory",3,"Trauma",2,NA
+"392","Ischaemic cardiomyopathy","CA69","1.2.2.41.1","2.2.2.41.1","2.2.41.1",0,"Cardiovascular",2,"Vascular",1,NA
+"393","Autoimmune polyneuropathy","NE3","1.4.4.28.3","2.4.4.28.3","4.4.28.3",0,"Neurological (including eyes)",4,"Inflammation",3,NA
+"394","Uterine rupture or perforation","GE57","1.5.5.3.1","2.5.5.3.1","5.5.3.1",3,"Genito-urinary",3,"Trauma",1,NA
+"395","Upper limb artery aneurysm or dissection","CA120","1.2.10.11.1","2.2.10.11.1","2.10.11.1",0,"Cardiovascular",10,"Dissection or aneurysm",1,NA
+"396","Anaemias","HA3","1.9.1.8.1","2.9.1.8.1","9.1.8.1",0,"Haematological/Immunological",1,"Congenital or acquired deformity or abnormality",1,NA
+"397","Infective pericarditis","CA62","1.2.3.27.1","2.2.3.27.1","2.3.27.1",0,"Cardiovascular",3,"Infection",1,NA
+"398","Diverticulitis or diverticular abscess","GA24","1.3.6.27.3","2.3.6.27.3","3.6.27.3",1,"Gastrointestinal",6,"Infection",3,NA
+"399","Electrical burns","DE3","1.5.7.1.1","2.5.7.1.1","5.7.1.1",1,"Dermatological",1,"Trauma",1,NA
+"400","Hypoparathyroidism","EN34","1.8.8.21.1","2.8.8.21.1","8.8.21.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypocalcaemia",1,NA
+"401","Kawasaki syndrome","CA72","1.2.1.28.1","2.2.1.28.1","2.1.28.1",0,"Cardiovascular",1,"Inflammation",1,NA
+"402","Hypercalcaemia","EN29","1.8.5.32.1","2.8.5.32.1","8.5.32.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",5,"Over-activity",1,NA
+"403","Duodeno-vascular fistula","GA29","1.3.4.38.6","2.3.4.38.6","3.4.38.6",0,"Gastrointestinal",4,"Trauma",6,NA
+"404","Single long bone fracture","MU32","1.5.6.2.2","2.5.6.2.2","5.6.2.2",1,"Musculoskeletal",2,"Trauma",2,NA
+"405","Airway obstruction by foreign body","RE48","1.1.1.30.8","2.1.1.30.8","1.1.30.8",0,"Respiratory",1,"Obstruction",8,NA
+"406","Extrinsic compression of airway by abscess","RE43","1.1.1.30.2","2.1.1.30.2","1.1.30.2",0,"Respiratory",1,"Obstruction",2,NA
+"407","Papillary muscle rupture","CA89","1.2.2.38.7","2.2.2.38.7","2.2.38.7",3,"Cardiovascular",2,"Trauma",7,NA
+"408","Berry or other intracranial aneurysm","NE4","1.1.10.41.1","2.1.10.41.1","1.10.41.1",1,"Respiratory",10,"Vascular",1,NA
+"409","Degloving injury","MU30","1.5.7.1.3","2.5.7.1.3","5.7.1.3",1,"Dermatological",1,"Trauma",3,NA
+"410","Instrumental damage to carotid or vertebral artery","NE19","1.2.9.38.2","2.2.9.38.2","2.9.38.2",1,"Cardiovascular",9,"Trauma",2,NA
+"411","Cystic fibrosis","RE28","1.1.2.8.1","2.1.2.8.1","1.2.8.1",1,"Respiratory",2,"Congenital or acquired deformity or abnormality",1,NA
+"412","Instrumental damage to pancreatic duct","GA60","1.3.9.38.2","2.3.9.38.2","3.9.38.2",1,"Gastrointestinal",9,"Trauma",2,NA
+"413","Cystitis,  pyocystis or urethritis","GE18","1.7.2.27.1","2.7.2.27.1","7.2.27.1",0,"Genito-urinary",2,"Infection",1,NA
+"414","Transfusion reaction","HA34","1.9.1.14.8","2.9.1.14.8","9.1.14.8",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",8,NA
+"415","Hirschsprung's disease","GA45","1.3.6.8.2","2.3.6.8.2","3.6.8.2",0,"Gastrointestinal",6,"Congenital or acquired deformity or abnormality",2,NA
+"416","AV canal defect","CA1","1.2.2.8.7","2.2.2.8.7","2.2.8.7",1,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",7,NA
+"417","Chronic lymphocytic leukaemia","HA7","1.9.2.39.3","2.9.2.39.3","9.2.39.3",0,"Haematological/Immunological",2,"Tumour or malignancy",3,NA
+"418","Gangrenous gall bladder","GA33","1.3.7.41.1","2.3.7.41.1","3.7.41.1",0,"Gastrointestinal",7,"Vascular",1,NA
+"419","Instrumental damage to large bowel","GA57","1.3.6.38.3","2.3.6.38.3","3.6.38.3",0,"Gastrointestinal",6,"Trauma",3,NA
+"420","Visceral artery stenosis or occlusion","CA127","1.2.8.30.8","2.2.8.30.8","2.8.30.8",1,"Cardiovascular",8,"Obstruction",8,NA
+"421","Degenerative myopathy","MU2","1.10.3.9.1","2.10.3.9.1","10.3.9.1",0,"Musculoskeletal",3,"Degeneration",1,NA
+"422","Chronic angina","CA23","1.2.1.30.3","2.2.1.30.3","2.1.30.3",0,"Cardiovascular",1,"Obstruction",3,NA
+"423","Spinal stenosis","NE34","1.4.3.8.2","2.4.3.8.2","4.3.8.2",0,"Neurological (including eyes)",3,"Congenital or acquired deformity or abnormality",2,NA
+"424","Diaphragmatic hernia","RE30","1.1.5.8.3","2.1.5.8.3","1.5.8.3",2,"Respiratory",5,"Congenital or acquired deformity or abnormality",3,NA
+"425","Ocular tumour","NE52","1.4.1.39.3","2.4.1.39.3","4.1.39.3",0,"Neurological (including eyes)",1,"Tumour or malignancy",3,NA
+"426","Post-radiotherapy pneumonitis or fibrosis","RE97","1.1.4.31.13","2.1.4.31.13","1.4.31.13",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",13,NA
+"427","Leaking small bowel anastomosis","GA77","1.3.5.38.4","2.3.5.38.4","3.5.38.4",0,"Gastrointestinal",5,"Trauma",4,NA
+"428","Accidental poisoning with narcotics","EN49","1.6.8.1.2","2.6.8.1.2","6.8.1.2",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",2,NA
+"429","Truncus arteriosus","CA119","1.1.3.8.5","2.1.3.8.5","1.3.8.5",2,"Respiratory",3,"Congenital or acquired deformity or abnormality",5,NA
+"430","Toxic shock syndrome","GE51","1.7.3.27.3","2.7.3.27.3","7.3.27.3",0,"Genito-urinary",3,"Infection",3,NA
+"431","Abdominal wound dehiscence","GA1","1.3.10.38.2","2.3.10.38.2","3.10.38.2",0,"Gastrointestinal",10,"Trauma",2,NA
+"432","Ectopic pregnancy","GE19","1.7.4.15.3","2.7.4.15.3","7.4.15.3",0,"Genito-urinary",4,"Haemorrhage",3,NA
+"433","Toxic epidermal necrolysis","DE15","1.11.1.27.2","2.11.1.27.2","11.1.27.2",1,"Dermatological",1,"Infection",2,NA
+"434","Allograft","GE8","1.7.1.37.1","2.7.1.37.1","7.1.37.1",0,"Genito-urinary",1,"Transplant or related",1,NA
+"435","Coarctation of the aorta","CA28","1.2.6.8.1","2.2.6.8.1","2.6.8.1",1,"Cardiovascular",6,"Congenital or acquired deformity or abnormality",1,NA
+"436","Self poisoning with agent not defined","EN97","1.6.8.34.13","2.6.8.34.13","6.8.34.13",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",13,NA
+"437","Peri- and postpartum haemorrhage","GE37","1.7.4.15.2","2.7.4.15.2","7.4.15.2",0,"Genito-urinary",4,"Haemorrhage",2,NA
+"438","Vasculitis of cerebral circulation","NE40","1.1.10.41.5","2.1.10.41.5","1.10.41.5",2,"Respiratory",10,"Vascular",5,NA
+"439","Vascular ring","RE104","1.1.1.30.14","2.1.1.30.14","1.1.30.14",1,"Respiratory",1,"Obstruction",14,NA
+"440","Instrumental damage to kidney  ureter or vessels","GE61","1.5.5.1.4","2.5.5.1.4","5.5.1.4",1,"Genito-urinary",1,"Trauma",4,NA
+"441","Bleeding from limb vessel","CA17","1.2.10.15.1","2.2.10.15.1","2.10.15.1",0,"Cardiovascular",10,"Haemorrhage",1,NA
+"442","Spontaneous splenic rupture","GA126","1.3.8.38.2","2.3.8.38.2","3.8.38.2",0,"Gastrointestinal",8,"Trauma",2,NA
+"443","Oedema due to venous obstruction","RE77","1.1.1.28.3","2.1.1.28.3","1.1.28.3",1,"Respiratory",1,"Inflammation",3,NA
+"444","Primary peritonitis","GA110","1.3.10.27.1","2.3.10.27.1","3.10.27.1",0,"Gastrointestinal",10,"Infection",1,NA
+"445","Abnormality of tricuspid valve","CA130","1.2.4.8.4","2.2.4.8.4","2.4.8.4",0,"Cardiovascular",4,"Congenital or acquired deformity or abnormality",4,NA
+"446","Trauma to abdominal wall","MU34","1.3.10.38.1","2.3.10.38.1","3.10.38.1",1,"Gastrointestinal",10,"Trauma",1,NA
+"447","Obstruction by foreign body","RE80","1.1.2.30.3","2.1.2.30.3","1.2.30.3",0,"Respiratory",2,"Obstruction",3,NA
+"448","Tracheomalacia","RE112","1.1.1.8.4","2.1.1.8.4","1.1.8.4",0,"Respiratory",1,"Congenital or acquired deformity or abnormality",4,NA
+"449","Ovarian tumour","EN56","1.7.3.39.1","2.7.3.39.1","7.3.39.1",1,"Genito-urinary",3,"Tumour or malignancy",1,NA
+"450","Epistaxis","RE3","1.2.9.15.1","2.2.9.15.1","2.9.15.1",1,"Cardiovascular",9,"Haemorrhage",1,NA
+"451","Hyperosmolar coma","EN31","1.8.4.10.2","2.8.4.10.2","8.4.10.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",4,"Diabetes mellitus",2,NA
+"452","Biliary tree obstruction","GA10","1.3.7.30.1","2.3.7.30.1","3.7.30.1",0,"Gastrointestinal",7,"Obstruction",1,NA
+"453","Drug induced hepatitis or hepatic necrosis","GA25","1.3.7.28.4","2.3.7.28.4","3.7.28.4",0,"Gastrointestinal",7,"Inflammation",4,NA
+"454","Traumatic inferior vena caval damage","CA63","1.2.11.38.2","2.2.11.38.2","2.11.38.2",0,"Cardiovascular",11,"Trauma",2,NA
+"455","Mouth, mandible, pharynx, or facial bones deformity","NE25","1.1.1.8.1","2.1.1.8.1","1.1.8.1",0,"Respiratory",1,"Congenital or acquired deformity or abnormality",1,NA
+"456","Entero-vascular fistula","GA30","1.3.5.15.1","2.3.5.15.1","3.5.15.1",0,"Gastrointestinal",5,"Haemorrhage",1,NA
+"457","Duodenal fistula","GA97","1.3.4.38.7","2.3.4.38.7","3.4.38.7",0,"Gastrointestinal",4,"Trauma",7,NA
+"458","Inferior vena caval obstruction or thrombosis","CA64","1.2.11.30.2","2.2.11.30.2","2.11.30.2",0,"Cardiovascular",11,"Obstruction",2,NA
+"459","Upper airway bleeding not defined","RE85","1.1.1.15.2","2.1.1.15.2","1.1.15.2",0,"Respiratory",1,"Haemorrhage",2,NA
+"460","Mesothelioma","RE74","1.1.5.39.1","2.1.5.39.1","1.5.39.1",0,"Respiratory",5,"Tumour or malignancy",1,NA
+"461","Cor pulmonale","CA33","1.1.3.19.3","2.1.3.19.3","1.3.19.3",2,"Respiratory",3,"Hypertension",3,NA
+"462","Pleural thickening or calcification","RE92","1.1.5.8.1","2.1.5.8.1","1.5.8.1",0,"Respiratory",5,"Congenital or acquired deformity or abnormality",1,NA
+"463","Endocarditis of tricuspid valve","CA39","1.2.4.27.4","2.2.4.27.4","2.4.27.4",0,"Cardiovascular",4,"Infection",4,NA
+"464","Chronic degeneration of tricuspid valve","CA27","1.2.4.9.4","2.2.4.9.4","2.4.9.4",0,"Cardiovascular",4,"Degeneration",4,NA
+"465","Haemorrhage from urethra","GE23","1.7.2.15.1","2.7.2.15.1","7.2.15.1",0,"Genito-urinary",2,"Haemorrhage",1,NA
+"466","Traumatic damage to pulmonary vessels","RE39","1.1.3.38.1","2.1.3.38.1","1.3.38.1",1,"Respiratory",3,"Trauma",1,NA
+"467","Graft vs Host disease","HA13","1.9.2.37.2","2.9.2.37.2","9.2.37.2",0,"Haematological/Immunological",2,"Transplant or related",2,NA
+"468","Heat-stroke or heat exhaustion","EN28","1.8.7.20.3","2.8.7.20.3","8.7.20.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",7,"Hyperthermia",3,NA
+"469","Haemorrhage or haematoma from muscles or connective tissue","MU38","1.5.6.3.4","2.5.6.3.4","5.6.3.4",1,"Musculoskeletal",3,"Trauma",4,NA
+"470","Thoracoplasty","RE111","1.1.9.8.1","2.1.9.8.1","1.9.8.1",0,"Respiratory",9,"Congenital or acquired deformity or abnormality",1,NA
+"471","Neurogenic pulmonary oedema","RE76","1.1.4.31.11","2.1.4.31.11","1.4.31.11",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",11,NA
+"472","Flail sternum","RE23","1.1.9.38.2","2.1.9.38.2","1.9.38.2",0,"Respiratory",9,"Trauma",2,NA
+"473","Erythema multiforme","DE4","1.11.1.28.5","2.11.1.28.5","11.1.28.5",0,"Dermatological",1,"Inflammation",5,NA
+"474","Nephrotic syndrome","GE32","1.7.1.28.2","2.7.1.28.2","7.1.28.2",0,"Genito-urinary",1,"Inflammation",2,NA
+"475","CAPD related peritonitis","GA16","1.3.10.27.3","2.3.10.27.3","3.10.27.3",1,"Gastrointestinal",10,"Infection",3,NA
+"476","Hypoglycaemia not due to excess insulin","EN53","1.8.8.22.3","2.8.8.22.3","8.8.22.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypoglycaemia",3,NA
+"477","Large bowel fistula","GA68","1.3.6.38.5","2.3.6.38.5","3.6.38.5",0,"Gastrointestinal",6,"Trauma",5,NA
+"478","Non-accidental injury to muscles or connective tissue","MU36","1.5.6.3.3","2.5.6.3.3","5.6.3.3",0,"Musculoskeletal",3,"Trauma",3,NA
+"479","Secondary tumour of bone","MU22","1.10.2.39.2","2.10.2.39.2","10.2.39.2",0,"Musculoskeletal",2,"Tumour or malignancy",2,NA
+"480","Abnormality of bladder or urinary diversion procedure","GE1","1.7.2.8.1","2.7.2.8.1","7.2.8.1",0,"Genito-urinary",2,"Congenital or acquired deformity or abnormality",1,NA
+"481","Instrumental damage to myocardium","CA68","1.2.2.38.2","2.2.2.38.2","2.2.38.2",0,"Cardiovascular",2,"Trauma",2,NA
+"482","Small bowel intussusception","GA122","1.3.5.30.4","2.3.5.30.4","3.5.30.4",0,"Gastrointestinal",5,"Obstruction",4,NA
+"483","Instrumental damage to liver or biliary tree","GA58","1.3.7.38.3","2.3.7.38.3","3.7.38.3",0,"Gastrointestinal",7,"Trauma",3,NA
+"484","Milk-alkali syndrome","EN47","1.8.8.42.3","2.8.8.42.3","8.8.42.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypercalcaemia",3,NA
+"485","Infective enteritides","GA51","1.3.5.27.1","2.3.5.27.1","3.5.27.1",0,"Gastrointestinal",5,"Infection",1,NA
+"486","Testicular prostatatic or penile abscess","GE3","1.7.5.27.2","2.7.5.27.2","7.5.27.2",0,"Genito-urinary",5,"Infection",2,NA
+"487","Haemorrhage from ovary or fallopian tubes","GE22","1.7.3.15.2","2.7.3.15.2","7.3.15.2",0,"Genito-urinary",3,"Haemorrhage",2,NA
+"488","Septicaemia","HA29","1.9.1.27.4","2.9.1.27.4","9.1.27.4",0,"Haematological/Immunological",1,"Infection",4,NA
+"489","Hodgkin's lymphoma","HA18","1.9.2.39.5","2.9.2.39.5","9.2.39.5",0,"Haematological/Immunological",2,"Tumour or malignancy",5,NA
+"490","Traumatic pneumothorax","RE95","1.1.5.38.2","2.1.5.38.2","1.5.38.2",0,"Respiratory",5,"Trauma",2,NA
+"491","Schizophrenia","PS8","1.12.1.51.1","2.12.1.51.1","12.1.51.1",0,"Psychiatric",1,"Schizophrenia",1,NA
+"492","Turner's syndrome (XO)","EN83","1.8.11.46.1","2.8.11.46.1","8.11.46.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Sex chromosome disorders",1,NA
+"493","Traumatic rupture or puncture of upper limb artery","CA118","1.2.10.38.1","2.2.10.38.1","2.10.38.1",0,"Cardiovascular",10,"Trauma",1,NA
+"494","Hypersplenism","GA47","1.3.8.39.1","2.3.8.39.1","3.8.39.1",0,"Gastrointestinal",8,"Tumour or malignancy",1,NA
+"495","Uterine cavity infection","GE56","1.7.3.27.1","2.7.3.27.1","7.3.27.1",0,"Genito-urinary",3,"Infection",1,NA
+"496","Large bowel artery stenosis or occlusion","GA67","1.3.6.41.1","2.3.6.41.1","3.6.41.1",0,"Gastrointestinal",6,"Vascular",1,NA
+"497","Acute bronchitis or laryngotracheobronchitis","RE1","1.1.2.27.1","2.1.2.27.1","1.2.27.1",0,"Respiratory",2,"Infection",1,NA
+"498","Self poisoning with aspirin","EN93","1.6.8.34.6","2.6.8.34.6","6.8.34.6",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",6,NA
+"499","Bronchial tumour","RE15","1.1.2.39.1","2.1.2.39.1","1.2.39.1",0,"Respiratory",2,"Tumour or malignancy",1,NA
+"500","Infected artificial pacemaker","CA57","1.2.5.27.1","2.2.5.27.1","2.5.27.1",0,"Cardiovascular",5,"Infection",1,NA
+"501","Urethral tumour","GE55","1.7.2.39.2","2.7.2.39.2","7.2.39.2",0,"Genito-urinary",2,"Tumour or malignancy",2,NA
+"502","Hydatid disease","GA46","1.3.7.27.5","2.3.7.27.5","3.7.27.5",0,"Gastrointestinal",7,"Infection",5,NA
+"503","Parathyroid tumour","EN60","1.8.5.39.1","2.8.5.39.1","8.5.39.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",5,"Tumour or malignancy",1,NA
+"504","Central hypoventilation (Ondine's curse)","NE7","1.1.10.8.7","2.1.10.8.7","1.10.8.7",1,"Respiratory",10,"Congenital or acquired deformity or abnormality",7,NA
+"505","Non-accidental injury to brain","NE28","1.1.10.38.4","2.1.10.38.4","1.10.38.4",2,"Respiratory",10,"Trauma",4,NA
+"506","Primary retroperitoneal malignancy","GA111","1.3.10.39.1","2.3.10.39.1","3.10.39.1",0,"Gastrointestinal",10,"Tumour or malignancy",1,NA
+"507","Colonic or rectal bleeding","GA21","1.3.6.15.1","2.3.6.15.1","3.6.15.1",0,"Gastrointestinal",6,"Haemorrhage",1,NA
+"508","Adrenocortical tumours","EN6","1.8.3.39.2","2.8.3.39.2","8.3.39.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",3,"Tumour or malignancy",2,NA
+"509","Vasculitis not defined","MU13","1.10.3.28.7","2.10.3.28.7","10.3.28.7",0,"Musculoskeletal",3,"Inflammation",7,NA
+"510","Self poisoning with gases (not carbon monoxide)","EN77","1.6.8.34.12","2.6.8.34.12","6.8.34.12",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",12,NA
+"511","Drug induced haemolysis","HA10","1.9.1.14.2","2.9.1.14.2","9.1.14.2",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",2,NA
+"512","Multiple long bone fractures","MU7","1.5.6.2.3","2.5.6.2.3","5.6.2.3",1,"Musculoskeletal",2,"Trauma",3,NA
+"513","Occlusive aortic or iliac disease","CA87","1.2.7.30.1","2.2.7.30.1","2.7.30.1",0,"Cardiovascular",7,"Obstruction",1,NA
+"514","Alcohol dependence","PS1","1.12.1.48.1","2.12.1.48.1","12.1.48.1",0,"Psychiatric",1,"Alcohol or drug dependence",1,NA
+"515","Head or neck tumour not intra-oral or intra-cranial","RE54","1.1.1.39.1","2.1.1.39.1","1.1.39.1",1,"Respiratory",1,"Tumour or malignancy",1,NA
+"516","Malignant hyperpyrexia","EN46","1.8.7.20.1","2.8.7.20.1","8.7.20.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",7,"Hyperthermia",1,NA
+"517","Lung collapse due to pneumothorax","RE115","1.1.4.6.4","2.1.4.6.4","1.4.6.4",0,"Respiratory",4,"Collapse",4,NA
+"518","Neurosis disorder","PS6","1.12.1.50.1","2.12.1.50.1","12.1.50.1",0,"Psychiatric",1,"Neurosis or personality disorder",1,NA
+"519","Rejection of kidney transplant","GE64","1.7.1.37.3","2.7.1.37.3","7.1.37.3",0,"Genito-urinary",1,"Transplant or related",3,NA
+"520","Drug, procedure or transfusion induced bronchospasm in non-asthmatic","RE32","1.1.2.30.2","2.1.2.30.2","1.2.30.2",0,"Respiratory",2,"Obstruction",2,NA
+"521","Ischaemic ventricular septal defect","CA71","1.2.2.8.4","2.2.2.8.4","2.2.8.4",2,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",4,NA
+"522","Klinefelter's syndrome (XXY)","EN86","1.8.11.46.2","2.8.11.46.2","8.11.46.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Sex chromosome disorders",2,NA
+"523","Inborn errors of metabolism","EN40","1.8.10.45.1","2.8.10.45.1","8.10.45.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",10,"Inborn errors of metabolism",1,NA
+"524","Ventricular aneurysm","CA138","1.2.2.8.17","2.2.2.8.17","2.2.8.17",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",17,NA
+"525","Endocarditis of pulmonary valve","CA38","1.2.4.27.3","2.2.4.27.3","2.4.27.3",0,"Cardiovascular",4,"Infection",3,NA
+"526","Iatrogenic hyponatraemia","EN37","1.8.8.24.2","2.8.8.24.2","8.8.24.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hyponatraemia",2,NA
+"527","Drug induced hypoplasia","HA11","1.9.2.25.2","2.9.2.25.2","9.2.25.2",0,"Haematological/Immunological",2,"Hypoplasia or dysplasia",2,NA
+"528","Primary or secondary tumour of muscle or connective tissue","MU15","1.10.3.39.1","2.10.3.39.1","10.3.39.1",0,"Musculoskeletal",3,"Tumour or malignancy",1,NA
+"529","Accelerated or malignant hypertension","CA6","1.2.12.19.1","2.2.12.19.1","2.12.19.1",0,"Cardiovascular",12,"Hypertension",1,NA
+"530","Trauma to tricuspid valve","CA112","1.2.4.38.4","2.2.4.38.4","2.4.38.4",0,"Cardiovascular",4,"Trauma",4,NA
+"531","Large bowel tumour","GA74","1.3.6.30.5","2.3.6.30.5","3.6.30.5",1,"Gastrointestinal",6,"Obstruction",5,NA
+"532","Primary hepatic tumour","GA109","1.3.7.39.1","2.3.7.39.1","3.7.39.1",0,"Gastrointestinal",7,"Tumour or malignancy",1,NA
+"533","Chronic degeneration of pulmonary valve","CA26","1.2.4.9.3","2.2.4.9.3","2.4.9.3",0,"Cardiovascular",4,"Degeneration",3,NA
+"534","Toxic myopathy","CA107","1.2.2.28.1","2.2.2.28.1","2.2.28.1",0,"Cardiovascular",2,"Inflammation",1,NA
+"535","Morbid obesity","EN48","1.8.9.29.1","2.8.9.29.1","8.9.29.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",9,"Obesity",1,NA
+"536","Pancreatic bleeding","GA144","1.3.9.15.1","2.3.9.15.1","3.9.15.1",0,"Gastrointestinal",9,"Haemorrhage",1,NA
+"537","Primary tumour of bone","MU17","1.10.2.39.1","2.10.2.39.1","10.2.39.1",0,"Musculoskeletal",2,"Tumour or malignancy",1,NA
+"538","Drowning (fresh or salt water)","RE31","1.1.4.31.8","2.1.4.31.8","1.4.31.8",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",8,NA
+"539","Infected arterio-venous shunt or fistula","CA91","1.2.12.27.3","2.2.12.27.3","2.12.27.3",1,"Cardiovascular",12,"Infection",3,NA
+"540","Cystic liver disease","GA102","1.3.7.8.3","2.3.7.8.3","3.7.8.3",0,"Gastrointestinal",7,"Congenital or acquired deformity or abnormality",3,NA
+"541","Carcinoma of breast","DE16","1.11.1.39.3","2.11.1.39.3","11.1.39.3",0,"Dermatological",1,"Tumour or malignancy",3,NA
+"542","Hypothyroidism or myxoedema","EN36","1.8.1.40.1","2.8.1.40.1","8.1.40.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",1,"Under-activity",1,NA
+"543","Abscess of muscle or connective tissue","MU1","1.10.3.27.5","2.10.3.27.5","10.3.27.5",0,"Musculoskeletal",3,"Infection",5,NA
+"544","Paraneoplastic hyponatraemia","EN57","1.8.8.24.3","2.8.8.24.3","8.8.24.3",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hyponatraemia",3,NA
+"545","Lung abscess","RE66","1.1.4.27.7","2.1.4.27.7","1.4.27.7",0,"Respiratory",4,"Infection",7,NA
+"546","Osteomyelitis or vertebral abscess","MU12","1.10.1.27.2","2.10.1.27.2","10.1.27.2",0,"Musculoskeletal",1,"Infection",2,NA
+"547","Congenital hypoparathyroidism","EN15","1.8.5.8.1","2.8.5.8.1","8.5.8.1",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",5,"Congenital or acquired deformity or abnormality",1,NA
+"548","Instrumental damage to coronary arteries","CA65","1.2.1.38.2","2.2.1.38.2","2.1.38.2",0,"Cardiovascular",1,"Trauma",2,NA
+"549","Traumatic small bowel perforation","GA133","1.3.5.38.2","2.3.5.38.2","3.5.38.2",0,"Gastrointestinal",5,"Trauma",2,NA
+"550","Contiguous gene syndromes","EN85","1.8.11.47.1","2.8.11.47.1","8.11.47.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Contiguous gene syndromes",1,NA
+"551","Wolff-Parkinson-White syndrome","CA129","1.2.5.8.1","2.2.5.8.1","2.5.8.1",0,"Cardiovascular",5,"Congenital or acquired deformity or abnormality",1,NA
+"552","Traumatic perforation or rupture of urethra","GE70","1.5.5.2.2","2.5.5.2.2","5.5.2.2",1,"Genito-urinary",2,"Trauma",2,NA
+"553","Variceal bleeding","GA136","1.3.7.15.1","2.3.7.15.1","3.7.15.1",0,"Gastrointestinal",7,"Haemorrhage",1,NA
+"554","Toxic polyneuropathy","NE60","1.1.7.28.2","2.1.7.28.2","1.7.28.2",1,"Respiratory",7,"Inflammation",2,NA
+"555","Traumatic renal rupture","GE73","1.5.5.1.1","2.5.5.1.1","5.5.1.1",1,"Genito-urinary",1,"Trauma",1,NA
+"556","Sputum retention","RE108","1.1.2.30.4","2.1.2.30.4","1.2.30.4",0,"Respiratory",2,"Obstruction",4,NA
+"557","Pancreatic abscess or infected pseudocyst","GA103","1.3.9.27.1","2.3.9.27.1","3.9.27.1",0,"Gastrointestinal",9,"Infection",1,NA
+"558","Instrumental damage to bladder or urethra","GE27","1.5.5.2.3","2.5.5.2.3","5.5.2.3",1,"Genito-urinary",2,"Trauma",3,NA
+"559","Disseminated intravascular coagulation","HA9","1.9.1.14.3","2.9.1.14.3","9.1.14.3",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",3,NA
+"560","Meconium aspiration","RE72","1.1.2.30.7","2.1.2.30.7","1.2.30.7",1,"Respiratory",2,"Obstruction",7,NA
+"561","Right ventricular failure","CA97","1.2.2.13.2","2.2.2.13.2","2.2.13.2",0,"Cardiovascular",2,"Failure",2,NA
+"562","Bleeding from the biliary tree","GA13","1.3.7.15.3","2.3.7.15.3","3.7.15.3",0,"Gastrointestinal",7,"Haemorrhage",3,NA
+"563","Intracranial abscess","NE2","1.1.10.27.3","2.1.10.27.3","1.10.27.3",1,"Respiratory",10,"Infection",3,NA
+"564","Thoracic spine fracture or ligamentous injury","MU33","1.5.6.1.2","2.5.6.1.2","5.6.1.2",1,"Musculoskeletal",1,"Trauma",2,NA
+"565","Cutaneous melanoma","DE6","1.11.1.39.1","2.11.1.39.1","11.1.39.1",0,"Dermatological",1,"Tumour or malignancy",1,NA
+"566","Haemopericardium from traumatic myocardial perforation","CA44","1.2.3.15.3","2.2.3.15.3","2.3.15.3",0,"Cardiovascular",3,"Haemorrhage",3,NA
+"567","Non-accidental injury to large bowel,  rectum or anus","GA84","1.3.6.38.6","2.3.6.38.6","3.6.38.6",0,"Gastrointestinal",6,"Trauma",6,NA
+"568","Traumatic rupture or puncture of carotid or vertebral artery","GA91","1.2.9.38.1","2.2.9.38.1","2.9.38.1",1,"Cardiovascular",9,"Trauma",1,NA
+"569","Instrumental perforation of bronchus","RE61","1.1.2.38.2","2.1.2.38.2","1.2.38.2",0,"Respiratory",2,"Trauma",2,NA
+"570","Instrumental damage to renal or splanchnic vessels","GA139","1.2.8.38.3","2.2.8.38.3","2.8.38.3",0,"Cardiovascular",8,"Trauma",3,NA
+"571","Septic abortion","GE49","1.7.4.27.4","2.7.4.27.4","7.4.27.4",0,"Genito-urinary",4,"Infection",4,NA
+"572","Pericardial effusion","CA90","1.2.3.8.2","2.2.3.8.2","2.3.8.2",1,"Cardiovascular",3,"Congenital or acquired deformity or abnormality",2,NA
+"573","Mediastinitis","CA81","1.1.5.27.3","2.1.5.27.3","1.5.27.3",2,"Respiratory",5,"Infection",3,NA
+"574","Non-traumatic small bowel perforation","GA89","1.3.5.38.1","2.3.5.38.1","3.5.38.1",0,"Gastrointestinal",5,"Trauma",1,NA
+"575","Vocal cord abnormality","RE38","1.1.1.8.6","2.1.1.8.6","1.1.8.6",0,"Respiratory",1,"Congenital or acquired deformity or abnormality",6,NA
+"576","Rhabdomyolysis","MU18","1.10.3.27.4","2.10.3.27.4","10.3.27.4",2,"Musculoskeletal",3,"Infection",4,NA
+"577","Haemolytic or uraemic syndrome","HA15","1.9.1.14.6","2.9.1.14.6","9.1.14.6",0,"Haematological/Immunological",1,"Haemolysis or thrombocytopaenia",6,NA
+"578","Trauma to pulmonary valve","CA111","1.2.4.38.3","2.2.4.38.3","2.4.38.3",0,"Cardiovascular",4,"Trauma",3,NA
+"579","Self poisoning with carbon monoxide","EN64","1.6.8.34.11","2.6.8.34.11","6.8.34.11",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",11,NA
+"580","Bronchiolitis obliterans","RE17","1.1.2.28.2","2.1.2.28.2","1.2.28.2",1,"Respiratory",2,"Inflammation",2,NA
+"581","Leaking biliary anastamosis","GA143","1.3.7.38.6","2.3.7.38.6","3.7.38.6",0,"Gastrointestinal",7,"Trauma",6,NA
+"582","Croup or laryngotracheobronchitis","RE27","1.1.1.27.4","2.1.1.27.4","1.1.27.4",1,"Respiratory",1,"Infection",4,NA
+"583","Congenital abnormality of aortic arch","CA30","1.2.6.8.3","2.2.6.8.3","2.6.8.3",0,"Cardiovascular",6,"Congenital or acquired deformity or abnormality",3,NA
+"584","Complex congenital cardiac abnormality","CA29","1.2.2.8.1","2.2.2.8.1","2.2.8.1",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",1,NA
+"585","Inhalation pneumonitis (blood)","RE57","1.1.4.31.6","2.1.4.31.6","1.4.31.6",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",6,NA
+"586","Perforated biliary tree or gall bladder","GA106","1.3.7.38.2","2.3.7.38.2","3.7.38.2",0,"Gastrointestinal",7,"Trauma",2,NA
+"587","Biliary atresia","GA8","1.3.7.8.1","2.3.7.8.1","3.7.8.1",1,"Gastrointestinal",7,"Congenital or acquired deformity or abnormality",1,NA
+"588","Poliomyelitis","RE96","1.1.6.27.2","2.1.6.27.2","1.6.27.2",1,"Respiratory",6,"Infection",2,NA
+"589","Non-traumatic duodenal rupture","GA86","1.3.4.38.1","2.3.4.38.1","3.4.38.1",0,"Gastrointestinal",4,"Trauma",1,NA
+"590","Depression","PS3","1.12.1.49.1","2.12.1.49.1","12.1.49.1",0,"Psychiatric",1,"Affective disorder",1,NA
+"591","Drug induced hyperpyrexia or neuroleptic malignant syndrome","EN51","1.8.7.20.2","2.8.7.20.2","8.7.20.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",7,"Hyperthermia",2,NA
+"592","Perinephric abscess","GE38","1.7.1.27.2","2.7.1.27.2","7.1.27.2",0,"Genito-urinary",1,"Infection",2,NA
+"593","Accidental poisoning with tri- and tetracyclic antidepressants","EN87","1.6.8.1.3","2.6.8.1.3","6.8.1.3",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",3,NA
+"594","Atrial premature beats or ectopics","CA14","1.2.5.32.3","2.2.5.32.3","2.5.32.3",0,"Cardiovascular",5,"Over-activity",3,NA
+"595","Pulmonary haemorrhage not defined","RE83","1.1.3.15.5","2.1.3.15.5","1.3.15.5",1,"Respiratory",3,"Haemorrhage",5,NA
+"596","Lower limb artery aneurysm or dissection","CA75","1.2.10.11.2","2.2.10.11.2","2.10.11.2",0,"Cardiovascular",10,"Dissection or aneurysm",2,NA
+"597","Heart or heart-lung transplant","CA47","1.2.2.37.1","2.2.2.37.1","2.2.37.1",0,"Cardiovascular",2,"Transplant or related",1,NA
+"598","Instrumental damage to limb artery","CA67","1.2.10.38.3","2.2.10.38.3","2.10.38.3",0,"Cardiovascular",10,"Trauma",3,NA
+"599","Traumatic or instrumental perforation of thoracic aorta","CA114","1.2.6.38.2","2.2.6.38.2","2.6.38.2",0,"Cardiovascular",6,"Trauma",2,NA
+"600","Renal artery aneurysm or dissection","GE44","1.2.8.11.1","2.2.8.11.1","2.8.11.1",3,"Cardiovascular",8,"Dissection or aneurysm",1,NA
+"601","Inflammatory perforation of small bowel","GA55","1.3.5.28.2","2.3.5.28.2","3.5.28.2",0,"Gastrointestinal",5,"Inflammation",2,NA
+"602","Myelodysplasia","HA23","1.9.2.25.3","2.9.2.25.3","9.2.25.3",0,"Haematological/Immunological",2,"Hypoplasia or dysplasia",3,NA
+"603","Prostatitis","GE41","1.7.5.27.1","2.7.5.27.1","7.5.27.1",0,"Genito-urinary",5,"Infection",1,NA
+"604","Traumatic aorto-enteric fistula","CA135","1.2.7.11.5","2.2.7.11.5","2.7.11.5",1,"Cardiovascular",7,"Dissection or aneurysm",5,NA
+"605","Spontaneous subcapsular haematoma","GA127","1.3.7.15.2","2.3.7.15.2","3.7.15.2",0,"Gastrointestinal",7,"Haemorrhage",2,NA
+"606","Nephrolithiasis","GE63","1.7.1.8.3","2.7.1.8.3","7.1.8.3",0,"Genito-urinary",1,"Congenital or acquired deformity or abnormality",3,NA
+"607","Self poisoning with insulin","EN95","1.6.8.34.9","2.6.8.34.9","6.8.34.9",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Self intoxication or self poisoning",9,NA
+"608","Goodpastures syndrome","RE51","1.1.3.15.1","2.1.3.15.1","1.3.15.1",4,"Respiratory",3,"Haemorrhage",1,NA
+"609","Acromegaly","EN2","1.8.2.32.2","2.8.2.32.2","8.2.32.2",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",2,"Over-activity",2,NA
+"610","Accidental poisoning with carbon monoxide","EN88","1.6.8.1.11","2.6.8.1.11","6.8.1.11",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",11,NA
+"611","Ulcerative colitis","GA135","1.3.6.28.2","2.3.6.28.2","3.6.28.2",0,"Gastrointestinal",6,"Inflammation",2,NA
+"612","Polycythaemia","HA26","1.9.1.8.2","2.9.1.8.2","9.1.8.2",0,"Haematological/Immunological",1,"Congenital or acquired deformity or abnormality",2,NA
+"613","Fat embolus","RE47","1.1.3.30.2","2.1.3.30.2","1.3.30.2",1,"Respiratory",3,"Obstruction",2,NA
+"614","Accidental poisoning with non-cyclic antidepressants","EN10","1.6.8.1.4","2.6.8.1.4","6.8.1.4",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",4,NA
+"615","Gastroschisis or exomphalos","GA40","1.3.10.8.2","2.3.10.8.2","3.10.8.2",0,"Gastrointestinal",10,"Congenital or acquired deformity or abnormality",2,NA
+"616","Non-traumatic large bowel perforation or rupture","GA88","1.3.6.38.1","2.3.6.38.1","3.6.38.1",0,"Gastrointestinal",6,"Trauma",1,NA
+"617","Accidental poisoning with agent not defined","EN50","1.6.8.1.13","2.6.8.1.13","6.8.1.13",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",13,NA
+"618","Tracheal trauma or perforation","RE34","1.1.1.38.3","2.1.1.38.3","1.1.38.3",0,"Respiratory",1,"Trauma",3,NA
+"619","Chemical burns","DE18","1.11.1.5.4","2.11.1.5.4","11.1.5.4",0,"Dermatological",1,"Burns or hyperthermia",4,NA
+"620","Scleroderma","DE12","1.11.1.28.7","2.11.1.28.7","11.1.28.7",0,"Dermatological",1,"Inflammation",7,NA
+"621","Testicular or penile tumour","GE50","1.7.5.39.1","2.7.5.39.1","7.5.39.1",0,"Genito-urinary",5,"Tumour or malignancy",1,NA
+"622","Mania or manic depression","PS5","1.12.1.49.2","2.12.1.49.2","12.1.49.2",0,"Psychiatric",1,"Affective disorder",2,NA
+"623","Traumatic rupture of thoracic aorta","CA113","1.2.6.38.1","2.2.6.38.1","2.6.38.1",0,"Cardiovascular",6,"Trauma",1,NA
+"624","Antepartum haemorrhage","GE11","1.7.4.15.1","2.7.4.15.1","7.4.15.1",0,"Genito-urinary",4,"Haemorrhage",1,NA
+"625","Abnormality of prosthetic valve","CA139","1.2.4.8.7","2.2.4.8.7","2.4.8.7",0,"Cardiovascular",4,"Congenital or acquired deformity or abnormality",7,NA
+"626","Abnormality of urethra","GE2","1.7.2.8.2","2.7.2.8.2","7.2.8.2",0,"Genito-urinary",2,"Congenital or acquired deformity or abnormality",2,NA
+"627","HIV","HA14","1.9.1.27.3","2.9.1.27.3","9.1.27.3",0,"Haematological/Immunological",1,"Infection",3,NA
+"628","Inhalational burns","RE60","1.1.1.28.1","2.1.1.28.1","1.1.28.1",1,"Respiratory",1,"Inflammation",1,NA
+"629","Secondary retroperitoneal malignancy","GA117","1.3.10.39.2","2.3.10.39.2","3.10.39.2",0,"Gastrointestinal",10,"Tumour or malignancy",2,NA
+"630","Viral or bacterial cardiomyopathy","CA125","1.2.2.27.1","2.2.2.27.1","2.2.27.1",0,"Cardiovascular",2,"Infection",1,NA
+"631","Pelvic fracture","MU39","1.5.6.2.1","2.5.6.2.1","5.6.2.1",1,"Musculoskeletal",2,"Trauma",1,NA
+"632","Venous air embolus","RE2","1.1.3.30.3","2.1.3.30.3","1.3.30.3",2,"Respiratory",3,"Obstruction",3,NA
+"633","Non-accidental injury to female genitalia","GE33","1.5.5.3.3","2.5.5.3.3","5.5.3.3",1,"Genito-urinary",3,"Trauma",3,NA
+"634","Double outlet left ventricle","CA35","1.2.2.8.15","2.2.2.8.15","2.2.8.15",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",15,NA
+"635","Renal infarction","GE46","1.2.8.30.3","2.2.8.30.3","2.8.30.3",1,"Cardiovascular",8,"Obstruction",3,NA
+"636","Haemorrhage into or from thyroid","EN27","1.8.1.15.1","2.8.1.15.1","8.1.15.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",1,"Haemorrhage",1,NA
+"637","Small bowel arterio-venous malformation","GA7","1.3.5.15.2","2.3.5.15.2","3.5.15.2",0,"Gastrointestinal",5,"Haemorrhage",2,NA
+"638","Islet cell transplant","EN44","1.8.4.37.1","2.8.4.37.1","8.4.37.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",4,"Transplant or related",1,NA
+"639","Infective polyneuropathy","NE18","1.1.7.27.1","2.1.7.27.1","1.7.27.1",1,"Respiratory",7,"Infection",1,NA
+"640","Acute lymphoblastic leukaemia","HA1","1.9.2.39.1","2.9.2.39.1","9.2.39.1",0,"Haematological/Immunological",2,"Tumour or malignancy",1,NA
+"641","Diabetes mellitus","EN19","1.8.4.10.5","2.8.4.10.5","8.4.10.5",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",4,"Diabetes mellitus",5,NA
+"642","Instrumental damage to abdominal aorta or iliac vessels","CA133","1.2.7.38.2","2.2.7.38.2","2.7.38.2",0,"Cardiovascular",7,"Trauma",2,NA
+"643","Traumatic dissection of thoracic aorta","CA115","1.2.6.11.1","2.2.6.11.1","2.6.11.1",0,"Cardiovascular",6,"Dissection or aneurysm",1,NA
+"644","Renal vasculitis","GE68","1.7.1.28.3","2.7.1.28.3","7.1.28.3",1,"Genito-urinary",1,"Inflammation",3,NA
+"645","Iatrogenic potassium intoxication","EN38","1.8.8.17.1","2.8.8.17.1","8.8.17.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hyperkalaemia",1,NA
+"646","Infective hepatitis","GA52","1.3.7.27.2","2.3.7.27.2","3.7.27.2",0,"Gastrointestinal",7,"Infection",2,NA
+"647","Arnold-Chiari malformation","RE9","1.1.10.8.3","2.1.10.8.3","1.10.8.3",1,"Respiratory",10,"Congenital or acquired deformity or abnormality",3,NA
+"648","Leptospirosis","GE29","1.1.3.15.3","2.1.3.15.3","1.3.15.3",5,"Respiratory",3,"Haemorrhage",3,NA
+"649","Accidental poisoning with gases (not carbon monoxide)","EN90","1.6.8.1.12","2.6.8.1.12","6.8.1.12",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",12,NA
+"650","Hiatus hernia","GA44","1.1.5.8.2","2.1.5.8.2","1.5.8.2",0,"Respiratory",5,"Congenital or acquired deformity or abnormality",2,NA
+"651","Kyphoscoliosis","MU6","1.1.9.8.2","2.1.9.8.2","1.9.8.2",1,"Respiratory",9,"Congenital or acquired deformity or abnormality",2,NA
+"652","Eisenmenger's syndrome","CA131","1.1.3.19.2","2.1.3.19.2","1.3.19.2",1,"Respiratory",3,"Hypertension",2,NA
+"653","Pelvic infection or abscess","GE36","1.3.10.27.6","2.3.10.27.6","3.10.27.6",3,"Gastrointestinal",10,"Infection",6,NA
+"654","Crohn's disease of large bowel,  rectum or anus","GA150","1.3.6.28.1","2.3.6.28.1","3.6.28.1",0,"Gastrointestinal",6,"Inflammation",1,NA
+"655","Infective pancreatitis","GA54","1.3.9.27.2","2.3.9.27.2","3.9.27.2",0,"Gastrointestinal",9,"Infection",2,NA
+"656","Excess parenteral fluids","EN23","1.8.8.43.2","2.8.8.43.2","8.8.43.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Fluid overload",2,NA
+"657","Addison's disease","EN4","1.8.3.40.1","2.8.3.40.1","8.3.40.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",3,"Under-activity",1,NA
+"658","Water intoxication","EN73","1.8.8.24.1","2.8.8.24.1","8.8.24.1",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hyponatraemia",1,NA
+"659","Secondary tumour in vertebral column","MU21","1.10.1.39.2","2.10.1.39.2","10.1.39.2",0,"Musculoskeletal",1,"Tumour or malignancy",2,NA
+"660","Traumatic disruption of ureters","GE71","1.5.5.1.2","2.5.5.1.2","5.5.1.2",1,"Genito-urinary",1,"Trauma",2,NA
+"661","Lumbar spine fracture or ligamentous injury","MU31","1.5.6.1.3","2.5.6.1.3","5.6.1.3",1,"Musculoskeletal",1,"Trauma",3,NA
+"662","Right ventricular outflow tract obstruction","CA98","1.2.2.8.13","2.2.2.8.13","2.2.8.13",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",13,NA
+"663","Hepatic artery aneurysm","GA42","1.2.8.11.2","2.2.8.11.2","2.8.11.2",2,"Cardiovascular",8,"Dissection or aneurysm",2,NA
+"664","Drug induced hypokalaemia","EN21","1.8.8.23.2","2.8.8.23.2","8.8.23.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypokalaemia",2,NA
+"665","Accidental poisoning with paracetamol","EN91","1.6.8.1.7","2.6.8.1.7","6.8.1.7",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",7,NA
+"666","Infected CSF shunt","NE49","1.1.10.27.4","2.1.10.27.4","1.10.27.4",1,"Respiratory",10,"Infection",4,NA
+"667","Molar pregnancy","GE31","1.7.4.39.1","2.7.4.39.1","7.4.39.1",0,"Genito-urinary",4,"Tumour or malignancy",1,NA
+"668","Renal artery embolus","GE45","1.2.8.30.2","2.2.8.30.2","2.8.30.2",1,"Cardiovascular",8,"Obstruction",2,NA
+"669","Liver transplant rejection","GA79","1.3.7.37.2","2.3.7.37.2","3.7.37.2",0,"Gastrointestinal",7,"Transplant or related",2,NA
+"670","Smoke inhalation","RE106","1.1.2.28.1","2.1.2.28.1","1.2.28.1",0,"Respiratory",2,"Inflammation",1,NA
+"671","Biliary fistula","GA9","1.3.7.38.5","2.3.7.38.5","3.7.38.5",0,"Gastrointestinal",7,"Trauma",5,NA
+"672","Lung collapse secondary to broncho-pleural fistula","RE26","1.1.4.6.5","2.1.4.6.5","1.4.6.5",0,"Respiratory",4,"Collapse",5,NA
+"673","Imperforate anus or rectum","GA48","1.3.6.8.1","2.3.6.8.1","3.6.8.1",0,"Gastrointestinal",6,"Congenital or acquired deformity or abnormality",1,NA
+"674","Ankylosing spondylitis","RE6","1.1.9.8.6","2.1.9.8.6","1.9.8.6",0,"Respiratory",9,"Congenital or acquired deformity or abnormality",6,NA
+"675","Small bowel herniation","GA119","1.3.5.30.1","2.3.5.30.1","3.5.30.1",0,"Gastrointestinal",5,"Obstruction",1,NA
+"676","Pleurisy","RE93","1.1.5.27.1","2.1.5.27.1","1.5.27.1",0,"Respiratory",5,"Infection",1,NA
+"677","Spinal ankylosis","MU23","1.10.1.8.3","2.10.1.8.3","10.1.8.3",0,"Musculoskeletal",1,"Congenital or acquired deformity or abnormality",3,NA
+"678","Laryngeal trauma or perforation","RE10","1.1.1.38.2","2.1.1.38.2","1.1.38.2",0,"Respiratory",1,"Trauma",2,NA
+"679","Instrumental damage to small bowel","GA61","1.3.5.38.3","2.3.5.38.3","3.5.38.3",0,"Gastrointestinal",5,"Trauma",3,NA
+"680","Hypertrophic cardiomyopathy","CA50","1.2.2.8.9","2.2.2.8.9","2.2.8.9",0,"Cardiovascular",2,"Congenital or acquired deformity or abnormality",9,NA
+"681","Congenital mental handicap","PS2","1.12.1.52.1","2.12.1.52.1","12.1.52.1",0,"Psychiatric",1,"Mental handicap",1,NA
+"682","Other trisomy","EN76","1.8.11.53.4","2.8.11.53.4","8.11.53.4",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",11,"Trisomy",4,NA
+"683","Ischaemic myocardial perforation","CA70","1.2.2.38.3","2.2.2.38.3","2.2.38.3",0,"Cardiovascular",2,"Trauma",3,NA
+"684","Hepatic infarction","GA43","1.3.7.41.5","2.3.7.41.5","3.7.41.5",0,"Gastrointestinal",7,"Vascular",5,NA
+"685","Thoracic cord injury","NE37","1.4.3.38.2","2.4.3.38.2","4.3.38.2",1,"Neurological (including eyes)",3,"Trauma",2,NA
+"686","Traumatic dissection or rupture of abdominal aorta or iliac vessels","CA116","1.2.7.11.2","2.2.7.11.2","2.7.11.2",1,"Cardiovascular",7,"Dissection or aneurysm",2,NA
+"687","Lumbar cord or cauda equina injury","NE13","1.4.3.38.3","2.4.3.38.3","4.3.38.3",1,"Neurological (including eyes)",3,"Trauma",3,NA
+"688","Portal vein occlusion or thrombosis","GA108","1.2.8.30.6","2.2.8.30.6","2.8.30.6",1,"Cardiovascular",8,"Obstruction",6,NA
+"689","Haemorrhage or haematoma from pelvis,  long bones or joints","MU37","1.5.6.2.5","2.5.6.2.5","5.6.2.5",1,"Musculoskeletal",2,"Trauma",5,NA
+"690","Pemphigus vulgaris","DE10","1.11.1.28.2","2.11.1.28.2","11.1.28.2",0,"Dermatological",1,"Inflammation",2,NA
+"691","Lung cyst","RE68","1.1.4.8.1","2.1.4.8.1","1.4.8.1",0,"Respiratory",4,"Congenital or acquired deformity or abnormality",1,NA
+"692","Hyperchloraemic acidosis","EN30","1.8.8.2.1","2.8.8.2.1","8.8.2.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Acidaemia",1,NA
+"693","Ureteric or renal obstruction","GE54","1.7.1.30.1","2.7.1.30.1","7.1.30.1",0,"Genito-urinary",1,"Obstruction",1,NA
+"694","Choanal atresia","RE20","1.1.1.8.5","2.1.1.8.5","1.1.8.5",0,"Respiratory",1,"Congenital or acquired deformity or abnormality",5,NA
+"695","Personality disorder","PS7","1.12.1.50.2","2.12.1.50.2","12.1.50.2",0,"Psychiatric",1,"Neurosis or personality disorder",2,NA
+"696","Traumatic large bowel perforation or rupture","GA131","1.3.6.38.2","2.3.6.38.2","3.6.38.2",0,"Gastrointestinal",6,"Trauma",2,NA
+"697","Multiple sclerosis","NE26","1.1.10.8.6","2.1.10.8.6","1.10.8.6",2,"Respiratory",10,"Congenital or acquired deformity or abnormality",6,NA
+"698","Chronic degeneration of mitral valve","CA25","1.2.4.9.2","2.2.4.9.2","2.4.9.2",0,"Cardiovascular",4,"Degeneration",2,NA
+"699","Abnormality of pulmonary valve","CA4","1.2.4.8.3","2.2.4.8.3","2.4.8.3",0,"Cardiovascular",4,"Congenital or acquired deformity or abnormality",3,NA
+"700","Acute renal failure due to haemodynamic causes","GE4","1.7.1.13.2","2.7.1.13.2","7.1.13.2",0,"Genito-urinary",1,"Failure",2,NA
+"701","Secondary lung tumour","RE105","1.1.4.39.2","2.1.4.39.2","1.4.39.2",0,"Respiratory",4,"Tumour or malignancy",2,NA
+"702","Extradural haematoma","NE14","1.1.10.15.4","2.1.10.15.4","1.10.15.4",4,"Respiratory",10,"Haemorrhage",4,NA
+"703","Steam burns or scalds","DE13","1.11.1.5.2","2.11.1.5.2","11.1.5.2",0,"Dermatological",1,"Burns or hyperthermia",2,NA
+"704","Sclerosing cholangitis","GA115","1.3.7.28.6","2.3.7.28.6","3.7.28.6",1,"Gastrointestinal",7,"Inflammation",6,NA
+"705","Rheumatoid arthritis","MU19","1.10.3.28.5","2.10.3.28.5","10.3.28.5",0,"Musculoskeletal",3,"Inflammation",5,NA
+"706","Laryngospasm","RE65","1.1.1.30.15","2.1.1.30.15","1.1.30.15",0,"Respiratory",1,"Obstruction",15,NA
+"707","Ruptured diaphragm","RE33","1.1.9.38.5","2.1.9.38.5","1.9.38.5",2,"Respiratory",9,"Trauma",5,NA
+"708","Traumatic myocardial perforation","CA137","1.2.2.38.5","2.2.2.38.5","2.2.38.5",0,"Cardiovascular",2,"Trauma",5,NA
+"709","Renal or ureteric tumour","GE47","1.7.1.39.1","2.7.1.39.1","7.1.39.1",0,"Genito-urinary",1,"Tumour or malignancy",1,NA
+"710","Malignant pericardial effusion","CA79","1.2.3.39.1","2.2.3.39.1","2.3.39.1",0,"Cardiovascular",3,"Tumour or malignancy",1,NA
+"711","Upper limb artery stenosis or occlusion","CA121","1.2.10.30.1","2.2.10.30.1","2.10.30.1",0,"Cardiovascular",10,"Obstruction",1,NA
+"712","Exfoliative dermatitis","DE5","1.11.1.28.1","2.11.1.28.1","11.1.28.1",0,"Dermatological",1,"Inflammation",1,NA
+"713","Instrumental damage to uterus,  ovaries or fallopian tubes","GE62","1.5.5.3.2","2.5.5.3.2","5.5.3.2",3,"Genito-urinary",3,"Trauma",2,NA
+"714","Accidental poisoning with sedatives or hypnotics","EN66","1.6.8.1.1","2.6.8.1.1","6.8.1.1",1,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Accidental intoxication or poisoning",1,NA
+"715","Spinal cord or nerve root compression by intervertebral disc","NE10","1.4.3.8.1","2.4.3.8.1","4.3.8.1",0,"Neurological (including eyes)",3,"Congenital or acquired deformity or abnormality",1,NA
+"716","Ovarian cyst","GE35","1.7.3.39.4","2.7.3.39.4","7.3.39.4",1,"Genito-urinary",3,"Tumour or malignancy",4,NA
+"717","Leaking duodenal anastomosis","GA76","1.3.4.38.5","2.3.4.38.5","3.4.38.5",0,"Gastrointestinal",4,"Trauma",5,NA
+"718","Penetrating injury to chest wall","RE89","1.1.9.38.4","2.1.9.38.4","1.9.38.4",0,"Respiratory",9,"Trauma",4,NA
+"719","Degenerative coma or encephalopathy","NE45","1.1.10.7.4","2.1.10.7.4","1.10.7.4",1,"Respiratory",10,"Coma or encephalopathy",4,NA
+"720","Fournier's gangrene of perineal tissues","GA32","1.7.5.27.3","2.7.5.27.3","7.5.27.3",2,"Genito-urinary",5,"Infection",3,NA
+"721","Inhalation pneumonitis (smoke or gases)","RE59","1.1.4.31.7","2.1.4.31.7","1.4.31.7",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",7,NA
+"722","Vitamin D intoxication","EN71","1.8.8.42.2","2.8.8.42.2","8.8.42.2",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",8,"Hypercalcaemia",2,NA
+"723","Hyaline membrane disease","RE55","1.1.4.31.16","2.1.4.31.16","1.4.31.16",0,"Respiratory",4,"Oedema, inflammation, fibrosis or inhalation",16,NA
+"724","Chronic pancreatitis","GA19","1.3.9.28.2","2.3.9.28.2","3.9.28.2",0,"Gastrointestinal",9,"Inflammation",2,NA
+"725","Alcohol withdrawal seizures","EN8","1.1.10.33.3","2.1.10.33.3","1.10.33.3",2,"Respiratory",10,"Seizures",3,NA
+"726","Pituitary haemorrhage","EN61","1.8.2.15.1","2.8.2.15.1","8.2.15.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",2,"Haemorrhage",1,NA
+"727","CABG for acute myocardial infarction","CA19","1.2.1.30.4","2.2.1.30.4","2.1.30.4",0,"Cardiovascular",1,"Obstruction",4,NA
+"728","Anomalous pulmonary venous drainage","RE7","1.1.3.8.1","2.1.3.8.1","1.3.8.1",1,"Respiratory",3,"Congenital or acquired deformity or abnormality",1,NA
+"729","Myocardial contusion","CA134","1.2.2.38.1","2.2.2.38.1","2.2.38.1",0,"Cardiovascular",2,"Trauma",1,NA
+"730","Syphilitic aortitis","CA103","1.2.6.27.3","2.2.6.27.3","2.6.27.3",0,"Cardiovascular",6,"Infection",3,NA
+"731","Instrumental damage to testes,  prostrate or penis","GE26","1.5.5.5.2","2.5.5.5.2","5.5.5.2",1,"Genito-urinary",5,"Trauma",2,NA
+"732","Pseudocholinesterase deficiency","NE31","1.1.7.8.1","2.1.7.8.1","1.7.8.1",3,"Respiratory",7,"Congenital or acquired deformity or abnormality",1,NA
+"733","Bladder outlet obstruction","GE14","1.7.2.30.1","2.7.2.30.1","7.2.30.1",0,"Genito-urinary",2,"Obstruction",1,NA
+"734","Adrenal haemorrhage","EN5","1.8.3.15.1","2.8.3.15.1","8.3.15.1",0,"Endocrine, Metabolic, Thermoregulation and Poisoning",3,"Haemorrhage",1,NA
