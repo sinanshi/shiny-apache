@@ -1,4 +1,5 @@
 source("chooser.R")
+library(data.table)
 diagnose <<- read.csv("data/incnar.csv")$condition
 nepisode <- 15000
 pre <- runif(nepisode, 0, 1)
